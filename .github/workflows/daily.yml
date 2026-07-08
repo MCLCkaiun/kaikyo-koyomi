@@ -1,0 +1,48 @@
+name: Daily fetch
+
+on:
+  schedule:
+    - cron: '0 21 * * *' # UTC 21:00 = JST 06:00、前日(JST)分を取得
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: data-commit
+  cancel-in-progress: false
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Fetch daily sea conditions
+        run: node scripts/fetch-daily.js
+
+      - name: Validate data
+        run: node scripts/validate.js
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          if git diff --quiet -- data; then
+            echo "No data changes."
+            exit 0
+          fi
+
+          DATE=$(TZ=Asia/Tokyo date -d 'yesterday' +%Y-%m-%d)
+          ROUTES=$(node -e "console.log(require('./config/routes.json').routes.length)")
+
+          git add data
+          git commit -m "data: ${DATE} (${ROUTES} routes) [skip ci]"
+          git push

@@ -1,0 +1,63 @@
+name: Backfill historical data
+
+on:
+  workflow_dispatch:
+    inputs:
+      start_date:
+        description: '開始日 (YYYY-MM-DD)。空欄なら config/routes.json の backfillStart を使う'
+        required: false
+        default: ''
+      end_date:
+        description: '終了日 (YYYY-MM-DD)。空欄なら昨日(JST)まで'
+        required: false
+        default: ''
+      route:
+        description: '対象航路の id。空欄または "all" で全航路'
+        required: false
+        default: 'all'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: data-commit
+  cancel-in-progress: false
+
+jobs:
+  backfill:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Backfill
+        env:
+          START_DATE: ${{ github.event.inputs.start_date }}
+          END_DATE: ${{ github.event.inputs.end_date }}
+          ROUTE: ${{ github.event.inputs.route }}
+        run: node scripts/backfill.js
+
+      - name: Validate data
+        run: node scripts/validate.js
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          if git diff --quiet -- data; then
+            echo "No data changes."
+            exit 0
+          fi
+
+          ROUTE_LABEL="${{ github.event.inputs.route }}"
+          if [ -z "$ROUTE_LABEL" ]; then ROUTE_LABEL="all"; fi
+
+          git add data
+          git commit -m "data: backfill ${ROUTE_LABEL} (${{ github.event.inputs.start_date }}..${{ github.event.inputs.end_date }})"
+          git push

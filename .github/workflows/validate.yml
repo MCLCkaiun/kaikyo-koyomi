@@ -1,0 +1,30 @@
+name: Validate data
+
+on:
+  push:
+    paths:
+      - 'config/routes.json'
+      - 'data/**'
+      - 'scripts/**'
+      - '.github/workflows/validate.yml'
+  pull_request:
+    paths:
+      - 'config/routes.json'
+      - 'data/**'
+      - 'scripts/**'
+      - '.github/workflows/validate.yml'
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Validate config/ and data/
+        run: node scripts/validate.js

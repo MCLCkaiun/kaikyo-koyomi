@@ -1,0 +1,41 @@
+{
+  "backfillStart": "2018-01-01",
+  "thresholds": {
+    "wave": { "calm": 1.0, "moderate": 2.0, "rough": 3.0 },
+    "wind": { "calm": 8.0, "moderate": 13.9, "rough": 17.2 }
+  },
+  "routes": [
+    {
+      "id": "setonaikai",
+      "name": "瀬戸内",
+      "points": [
+        { "name": "備讃瀬戸", "lat": 34.40, "lon": 133.80 },
+        { "name": "安芸灘", "lat": 34.15, "lon": 132.70 }
+      ]
+    },
+    {
+      "id": "taiheiyo-engan",
+      "name": "太平洋沿岸(東海〜関東)",
+      "points": [
+        { "name": "遠州灘沖", "lat": 34.50, "lon": 137.80 },
+        { "name": "房総沖", "lat": 34.90, "lon": 140.20 }
+      ]
+    },
+    {
+      "id": "isewan-kiisuido",
+      "name": "伊勢湾〜紀伊水道",
+      "points": [
+        { "name": "伊良湖水道沖", "lat": 34.58, "lon": 137.00 },
+        { "name": "紀伊水道", "lat": 33.90, "lon": 134.85 }
+      ]
+    },
+    {
+      "id": "kyushu-seigan",
+      "name": "九州西岸(玄界灘〜五島灘)",
+      "points": [
+        { "name": "玄界灘", "lat": 33.80, "lon": 130.00 },
+        { "name": "五島灘", "lat": 32.90, "lon": 129.30 }
+      ]
+    }
+  ]
+}

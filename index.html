@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>海況こよみ | 航路コンディション年鑑</title>
+<meta name="description" content="主要航路の波高・風速を毎日記録し、航路別の年間ヒートマップと、1年前・2年前の同じ日の海況を振り返れる年鑑サイトです。">
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Zen+Kaku+Gothic+New:wght@400;700&family=IBM+Plex+Sans+JP:wght@400;500&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<a class="skip-link" href="#main-content">本文へスキップ</a>
+
+<header class="site-header">
+  <div class="site-header__inner">
+    <h1 class="site-header__title">海況こよみ</h1>
+    <p class="site-header__desc">航路別・海況コンディションの年鑑</p>
+    <p class="site-header__count">記録日数: <span id="recorded-days">-</span> 日 / 最終更新: <span id="last-updated">-</span></p>
+  </div>
+</header>
+
+<main id="main-content">
+
+  <div class="view-tabs" id="view-tabs" role="tablist" aria-label="表示切り替え">
+    <button type="button" class="view-tab is-active" id="tab-almanac" role="tab" aria-selected="true" aria-controls="view-almanac" tabindex="0">年鑑</button>
+    <button type="button" class="view-tab" id="tab-koyomi" role="tab" aria-selected="false" aria-controls="view-koyomi" tabindex="-1">こよみ</button>
+  </div>
+
+  <p class="threshold-note" id="threshold-note"></p>
+
+  <!-- ===================== 年鑑ビュー ===================== -->
+  <section id="view-almanac" class="view-panel" role="tabpanel" aria-labelledby="tab-almanac">
+
+    <div class="almanac-controls">
+      <div class="category-chips" id="route-chips" role="group" aria-label="航路を選択"></div>
+      <label class="year-select-label" for="year-select">
+        年
+        <select id="year-select"></select>
+      </label>
+    </div>
+
+    <p class="result-status" id="almanac-status" aria-live="polite"></p>
+
+    <div class="heatmap-scroll" id="heatmap-scroll">
+      <svg id="heatmap-svg" class="heatmap-svg" role="img" aria-label="年間ヒートマップ"></svg>
+    </div>
+
+    <div class="cond-legend" id="cond-legend" aria-hidden="true"></div>
+
+    <h2 class="section-heading">月別サマリー(荒れ日数)</h2>
+    <div class="monthly-summary-scroll">
+      <svg id="monthly-svg" class="monthly-svg" role="img" aria-label="月別の荒れ日数サマリー"></svg>
+    </div>
+
+    <div class="tooltip" id="tooltip" role="tooltip" aria-live="polite" hidden></div>
+
+  </section>
+
+  <!-- ===================== こよみビュー ===================== -->
+  <section id="view-koyomi" class="view-panel" role="tabpanel" aria-labelledby="tab-koyomi" hidden>
+
+    <div class="koyomi-nav">
+      <button type="button" class="koyomi-nav__btn" id="koyomi-prev" aria-label="前日">&#8592;</button>
+      <label class="visually-hidden" for="koyomi-date">日付を選択</label>
+      <input type="date" id="koyomi-date" class="koyomi-date-input">
+      <button type="button" class="koyomi-nav__btn" id="koyomi-next" aria-label="翌日">&#8594;</button>
+    </div>
+
+    <h2 class="section-heading" id="koyomi-today-heading">この日の海況</h2>
+    <div class="route-card-grid" id="koyomi-today-cards"></div>
+
+    <h2 class="section-heading">同じ日の振り返り</h2>
+    <div class="koyomi-timeline" id="koyomi-timeline"></div>
+
+  </section>
+
+  <div class="empty-state" id="empty-state" hidden>
+    <p class="empty-state__title">この航路・年のデータはまだありません。</p>
+    <p>初回セットアップがまだの場合は、<code>backfill.yml</code> の手動実行が必要です。詳しくは <a href="README.md">README</a> をご覧ください。</p>
+  </div>
+
+  <div class="load-error" id="load-error" role="alert" hidden>
+    <p>データを読み込めませんでした。再読み込みしてください。</p>
+  </div>
+
+</main>
+
+<footer class="site-footer">
+  <p>波高・風速のデータ出典: <a href="https://open-meteo.com" target="_blank" rel="noopener">Open-Meteo.com</a>(CC BY 4.0)。しきい値や航路の追加・変更は、このリポジトリの <code>config/routes.json</code> へ。手順は <a href="README.md">README</a> をご覧ください。</p>
+</footer>
+
+<noscript>
+  <div class="load-error" role="alert">
+    <p>データを読み込めませんでした。再読み込みしてください。</p>
+  </div>
+</noscript>
+
+<!--
+  GoatCounter アクセスカウンター(プレースホルダ)。
+  README の手順に従い YOUR-CODE を実際のサイトコードに置き換えること。
+  読み込みに失敗してもページの動作には影響しない。
+-->
+<script data-goatcounter="https://YOUR-CODE.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
+
+<script src="js/app.js"></script>
+</body>
+</html>
