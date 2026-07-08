@@ -46,3 +46,4 @@ jobs:
           git add data
           git commit -m "data: ${DATE} (${ROUTES} routes) [skip ci]"
           git push
+
