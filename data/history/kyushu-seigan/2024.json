@@ -1,0 +1,2202 @@
+{
+  "route": "kyushu-seigan",
+  "year": 2024,
+  "days": {
+    "2024-01-01": {
+      "waveMax": 1.7,
+      "windMax": 11.91,
+      "gustMax": 17.3,
+      "cond": "moderate"
+    },
+    "2024-01-02": {
+      "waveMax": 1.32,
+      "windMax": 6.28,
+      "gustMax": 9.2,
+      "cond": "moderate"
+    },
+    "2024-01-03": {
+      "waveMax": 1.46,
+      "windMax": 12.95,
+      "gustMax": 17.7,
+      "cond": "moderate"
+    },
+    "2024-01-04": {
+      "waveMax": 1.38,
+      "windMax": 12.48,
+      "gustMax": 17.7,
+      "cond": "moderate"
+    },
+    "2024-01-05": {
+      "waveMax": 0.9,
+      "windMax": 10.47,
+      "gustMax": 14.6,
+      "cond": "moderate"
+    },
+    "2024-01-06": {
+      "waveMax": 0.76,
+      "windMax": 9.17,
+      "gustMax": 12.5,
+      "cond": "moderate"
+    },
+    "2024-01-07": {
+      "waveMax": 1.54,
+      "windMax": 11.99,
+      "gustMax": 16.7,
+      "cond": "moderate"
+    },
+    "2024-01-08": {
+      "waveMax": 1.36,
+      "windMax": 10.35,
+      "gustMax": 15.4,
+      "cond": "moderate"
+    },
+    "2024-01-09": {
+      "waveMax": 0.98,
+      "windMax": 7.56,
+      "gustMax": 10.5,
+      "cond": "calm"
+    },
+    "2024-01-10": {
+      "waveMax": 2.22,
+      "windMax": 15.14,
+      "gustMax": 21,
+      "cond": "rough"
+    },
+    "2024-01-11": {
+      "waveMax": 2.02,
+      "windMax": 15.57,
+      "gustMax": 21.2,
+      "cond": "rough"
+    },
+    "2024-01-12": {
+      "waveMax": 1.14,
+      "windMax": 10.18,
+      "gustMax": 14.3,
+      "cond": "moderate"
+    },
+    "2024-01-13": {
+      "waveMax": 1.36,
+      "windMax": 10.63,
+      "gustMax": 14.5,
+      "cond": "moderate"
+    },
+    "2024-01-14": {
+      "waveMax": 1.38,
+      "windMax": 10.57,
+      "gustMax": 14.1,
+      "cond": "moderate"
+    },
+    "2024-01-15": {
+      "waveMax": 1.58,
+      "windMax": 12.59,
+      "gustMax": 16.5,
+      "cond": "moderate"
+    },
+    "2024-01-16": {
+      "waveMax": 1.4,
+      "windMax": 9.87,
+      "gustMax": 13.6,
+      "cond": "moderate"
+    },
+    "2024-01-17": {
+      "waveMax": 1.1,
+      "windMax": 10.4,
+      "gustMax": 13.1,
+      "cond": "moderate"
+    },
+    "2024-01-18": {
+      "waveMax": 1.02,
+      "windMax": 11.85,
+      "gustMax": 15.9,
+      "cond": "moderate"
+    },
+    "2024-01-19": {
+      "waveMax": 2.06,
+      "windMax": 14,
+      "gustMax": 18.6,
+      "cond": "rough"
+    },
+    "2024-01-20": {
+      "waveMax": 1.92,
+      "windMax": 11.54,
+      "gustMax": 15.4,
+      "cond": "moderate"
+    },
+    "2024-01-21": {
+      "waveMax": 2.1,
+      "windMax": 14.23,
+      "gustMax": 18.8,
+      "cond": "rough"
+    },
+    "2024-01-22": {
+      "waveMax": 1.82,
+      "windMax": 14.52,
+      "gustMax": 20.1,
+      "cond": "rough"
+    },
+    "2024-01-23": {
+      "waveMax": 2.46,
+      "windMax": 17.61,
+      "gustMax": 24.9,
+      "cond": "severe"
+    },
+    "2024-01-24": {
+      "waveMax": 2.32,
+      "windMax": 17.34,
+      "gustMax": 26.2,
+      "cond": "severe"
+    },
+    "2024-01-25": {
+      "waveMax": 2.08,
+      "windMax": 12.15,
+      "gustMax": 17.5,
+      "cond": "rough"
+    },
+    "2024-01-26": {
+      "waveMax": 1.74,
+      "windMax": 9.16,
+      "gustMax": 12.6,
+      "cond": "moderate"
+    },
+    "2024-01-27": {
+      "waveMax": 1.58,
+      "windMax": 7.01,
+      "gustMax": 9.9,
+      "cond": "moderate"
+    },
+    "2024-01-28": {
+      "waveMax": 1.3,
+      "windMax": 12.52,
+      "gustMax": 17.3,
+      "cond": "moderate"
+    },
+    "2024-01-29": {
+      "waveMax": 0.92,
+      "windMax": 8.03,
+      "gustMax": 11,
+      "cond": "moderate"
+    },
+    "2024-01-30": {
+      "waveMax": 0.58,
+      "windMax": 5.24,
+      "gustMax": 7.8,
+      "cond": "calm"
+    },
+    "2024-01-31": {
+      "waveMax": 1.12,
+      "windMax": 8.14,
+      "gustMax": 10.8,
+      "cond": "moderate"
+    },
+    "2024-02-01": {
+      "waveMax": 1.56,
+      "windMax": 13.02,
+      "gustMax": 17.2,
+      "cond": "moderate"
+    },
+    "2024-02-02": {
+      "waveMax": 2.1,
+      "windMax": 13.16,
+      "gustMax": 17.7,
+      "cond": "rough"
+    },
+    "2024-02-03": {
+      "waveMax": 1.36,
+      "windMax": 11.2,
+      "gustMax": 15.3,
+      "cond": "moderate"
+    },
+    "2024-02-04": {
+      "waveMax": 1.36,
+      "windMax": 11.58,
+      "gustMax": 15.4,
+      "cond": "moderate"
+    },
+    "2024-02-05": {
+      "waveMax": 2.3,
+      "windMax": 14.06,
+      "gustMax": 21.2,
+      "cond": "rough"
+    },
+    "2024-02-06": {
+      "waveMax": 2.34,
+      "windMax": 10.42,
+      "gustMax": 15.3,
+      "cond": "rough"
+    },
+    "2024-02-07": {
+      "waveMax": 0.98,
+      "windMax": 9.68,
+      "gustMax": 13.5,
+      "cond": "moderate"
+    },
+    "2024-02-08": {
+      "waveMax": 1.04,
+      "windMax": 9.5,
+      "gustMax": 13.1,
+      "cond": "moderate"
+    },
+    "2024-02-09": {
+      "waveMax": 1.12,
+      "windMax": 9.98,
+      "gustMax": 13.7,
+      "cond": "moderate"
+    },
+    "2024-02-10": {
+      "waveMax": 1.04,
+      "windMax": 10.47,
+      "gustMax": 14.3,
+      "cond": "moderate"
+    },
+    "2024-02-11": {
+      "waveMax": 1.36,
+      "windMax": 13.33,
+      "gustMax": 18.4,
+      "cond": "moderate"
+    },
+    "2024-02-12": {
+      "waveMax": 1.26,
+      "windMax": 12.03,
+      "gustMax": 16.7,
+      "cond": "moderate"
+    },
+    "2024-02-13": {
+      "waveMax": 0.78,
+      "windMax": 9.17,
+      "gustMax": 12.1,
+      "cond": "moderate"
+    },
+    "2024-02-14": {
+      "waveMax": 1.04,
+      "windMax": 9.66,
+      "gustMax": 12.5,
+      "cond": "moderate"
+    },
+    "2024-02-15": {
+      "waveMax": 1.6,
+      "windMax": 12.97,
+      "gustMax": 18.1,
+      "cond": "moderate"
+    },
+    "2024-02-16": {
+      "waveMax": 2.14,
+      "windMax": 13.12,
+      "gustMax": 18.2,
+      "cond": "rough"
+    },
+    "2024-02-17": {
+      "waveMax": 1.26,
+      "windMax": 8.01,
+      "gustMax": 11.2,
+      "cond": "moderate"
+    },
+    "2024-02-18": {
+      "waveMax": 1.98,
+      "windMax": 13.32,
+      "gustMax": 17.2,
+      "cond": "moderate"
+    },
+    "2024-02-19": {
+      "waveMax": 2.92,
+      "windMax": 15.96,
+      "gustMax": 22.7,
+      "cond": "rough"
+    },
+    "2024-02-20": {
+      "waveMax": 2.1,
+      "windMax": 11.6,
+      "gustMax": 15.1,
+      "cond": "rough"
+    },
+    "2024-02-21": {
+      "waveMax": 2.34,
+      "windMax": 12.87,
+      "gustMax": 17.2,
+      "cond": "rough"
+    },
+    "2024-02-22": {
+      "waveMax": 2.78,
+      "windMax": 14.22,
+      "gustMax": 19.1,
+      "cond": "rough"
+    },
+    "2024-02-23": {
+      "waveMax": 1.92,
+      "windMax": 14.26,
+      "gustMax": 19.5,
+      "cond": "rough"
+    },
+    "2024-02-24": {
+      "waveMax": 1.78,
+      "windMax": 14.01,
+      "gustMax": 18.9,
+      "cond": "rough"
+    },
+    "2024-02-25": {
+      "waveMax": 1.44,
+      "windMax": 12.75,
+      "gustMax": 17.9,
+      "cond": "moderate"
+    },
+    "2024-02-26": {
+      "waveMax": 1.66,
+      "windMax": 12.95,
+      "gustMax": 17.9,
+      "cond": "moderate"
+    },
+    "2024-02-27": {
+      "waveMax": 1.74,
+      "windMax": 13.55,
+      "gustMax": 18.7,
+      "cond": "moderate"
+    },
+    "2024-02-28": {
+      "waveMax": 1.48,
+      "windMax": 11.55,
+      "gustMax": 16.2,
+      "cond": "moderate"
+    },
+    "2024-02-29": {
+      "waveMax": 2.72,
+      "windMax": 16.51,
+      "gustMax": 22.9,
+      "cond": "rough"
+    },
+    "2024-03-01": {
+      "waveMax": 1.9,
+      "windMax": 14.22,
+      "gustMax": 20,
+      "cond": "rough"
+    },
+    "2024-03-02": {
+      "waveMax": 1.62,
+      "windMax": 12.54,
+      "gustMax": 17.7,
+      "cond": "moderate"
+    },
+    "2024-03-03": {
+      "waveMax": 0.96,
+      "windMax": 8.83,
+      "gustMax": 13.1,
+      "cond": "moderate"
+    },
+    "2024-03-04": {
+      "waveMax": 0.72,
+      "windMax": 8.67,
+      "gustMax": 11.9,
+      "cond": "moderate"
+    },
+    "2024-03-05": {
+      "waveMax": 1.86,
+      "windMax": 14.12,
+      "gustMax": 19.4,
+      "cond": "rough"
+    },
+    "2024-03-06": {
+      "waveMax": 2.36,
+      "windMax": 15.6,
+      "gustMax": 21,
+      "cond": "rough"
+    },
+    "2024-03-07": {
+      "waveMax": 1.62,
+      "windMax": 11.18,
+      "gustMax": 15.5,
+      "cond": "moderate"
+    },
+    "2024-03-08": {
+      "waveMax": 1.48,
+      "windMax": 13.23,
+      "gustMax": 18.5,
+      "cond": "moderate"
+    },
+    "2024-03-09": {
+      "waveMax": 1.42,
+      "windMax": 12.66,
+      "gustMax": 17.6,
+      "cond": "moderate"
+    },
+    "2024-03-10": {
+      "waveMax": 1.28,
+      "windMax": 6.6,
+      "gustMax": 9.5,
+      "cond": "moderate"
+    },
+    "2024-03-11": {
+      "waveMax": 0.64,
+      "windMax": 7.51,
+      "gustMax": 10.1,
+      "cond": "calm"
+    },
+    "2024-03-12": {
+      "waveMax": 1.32,
+      "windMax": 11.83,
+      "gustMax": 16.2,
+      "cond": "moderate"
+    },
+    "2024-03-13": {
+      "waveMax": 1.58,
+      "windMax": 11.62,
+      "gustMax": 15.5,
+      "cond": "moderate"
+    },
+    "2024-03-14": {
+      "waveMax": 0.76,
+      "windMax": 8.71,
+      "gustMax": 11.5,
+      "cond": "moderate"
+    },
+    "2024-03-15": {
+      "waveMax": 0.48,
+      "windMax": 6.69,
+      "gustMax": 9.2,
+      "cond": "calm"
+    },
+    "2024-03-16": {
+      "waveMax": 0.46,
+      "windMax": 6.8,
+      "gustMax": 8.8,
+      "cond": "calm"
+    },
+    "2024-03-17": {
+      "waveMax": 1.22,
+      "windMax": 12.26,
+      "gustMax": 17,
+      "cond": "moderate"
+    },
+    "2024-03-18": {
+      "waveMax": 1.64,
+      "windMax": 12.61,
+      "gustMax": 17,
+      "cond": "moderate"
+    },
+    "2024-03-19": {
+      "waveMax": 1.6,
+      "windMax": 13.81,
+      "gustMax": 18.6,
+      "cond": "moderate"
+    },
+    "2024-03-20": {
+      "waveMax": 2.22,
+      "windMax": 17.21,
+      "gustMax": 24,
+      "cond": "severe"
+    },
+    "2024-03-21": {
+      "waveMax": 1.56,
+      "windMax": 10.49,
+      "gustMax": 14.4,
+      "cond": "moderate"
+    },
+    "2024-03-22": {
+      "waveMax": 1.4,
+      "windMax": 12.61,
+      "gustMax": 17,
+      "cond": "moderate"
+    },
+    "2024-03-23": {
+      "waveMax": 1.7,
+      "windMax": 13.2,
+      "gustMax": 17.7,
+      "cond": "moderate"
+    },
+    "2024-03-24": {
+      "waveMax": 1.46,
+      "windMax": 11.14,
+      "gustMax": 14.5,
+      "cond": "moderate"
+    },
+    "2024-03-25": {
+      "waveMax": 1.6,
+      "windMax": 11.69,
+      "gustMax": 16.1,
+      "cond": "moderate"
+    },
+    "2024-03-26": {
+      "waveMax": 2.36,
+      "windMax": 16.42,
+      "gustMax": 22.8,
+      "cond": "rough"
+    },
+    "2024-03-27": {
+      "waveMax": 1.56,
+      "windMax": 11.31,
+      "gustMax": 14.8,
+      "cond": "moderate"
+    },
+    "2024-03-28": {
+      "waveMax": 2.5,
+      "windMax": 17.18,
+      "gustMax": 24.3,
+      "cond": "rough"
+    },
+    "2024-03-29": {
+      "waveMax": 1.92,
+      "windMax": 11.58,
+      "gustMax": 15.5,
+      "cond": "moderate"
+    },
+    "2024-03-30": {
+      "waveMax": 1.1,
+      "windMax": 10.88,
+      "gustMax": 14.3,
+      "cond": "moderate"
+    },
+    "2024-03-31": {
+      "waveMax": 0.9,
+      "windMax": 9.5,
+      "gustMax": 12.8,
+      "cond": "moderate"
+    },
+    "2024-04-01": {
+      "waveMax": 0.76,
+      "windMax": 7.47,
+      "gustMax": 9.7,
+      "cond": "calm"
+    },
+    "2024-04-02": {
+      "waveMax": 1.7,
+      "windMax": 11.53,
+      "gustMax": 16.4,
+      "cond": "moderate"
+    },
+    "2024-04-03": {
+      "waveMax": 2.12,
+      "windMax": 15.17,
+      "gustMax": 19.8,
+      "cond": "rough"
+    },
+    "2024-04-04": {
+      "waveMax": 1.76,
+      "windMax": 10.86,
+      "gustMax": 14.4,
+      "cond": "moderate"
+    },
+    "2024-04-05": {
+      "waveMax": 1.36,
+      "windMax": 10.34,
+      "gustMax": 13.8,
+      "cond": "moderate"
+    },
+    "2024-04-06": {
+      "waveMax": 0.76,
+      "windMax": 7.5,
+      "gustMax": 10.2,
+      "cond": "calm"
+    },
+    "2024-04-07": {
+      "waveMax": 0.34,
+      "windMax": 6.48,
+      "gustMax": 8.3,
+      "cond": "calm"
+    },
+    "2024-04-08": {
+      "waveMax": 1.56,
+      "windMax": 14.97,
+      "gustMax": 20.2,
+      "cond": "rough"
+    },
+    "2024-04-09": {
+      "waveMax": 2.16,
+      "windMax": 13.61,
+      "gustMax": 20.3,
+      "cond": "rough"
+    },
+    "2024-04-10": {
+      "waveMax": 1.9,
+      "windMax": 10.5,
+      "gustMax": 14.1,
+      "cond": "moderate"
+    },
+    "2024-04-11": {
+      "waveMax": 0.86,
+      "windMax": 6.95,
+      "gustMax": 9,
+      "cond": "calm"
+    },
+    "2024-04-12": {
+      "waveMax": 0.34,
+      "windMax": 6.95,
+      "gustMax": 8.9,
+      "cond": "calm"
+    },
+    "2024-04-13": {
+      "waveMax": 0.3,
+      "windMax": 4.84,
+      "gustMax": 6,
+      "cond": "calm"
+    },
+    "2024-04-14": {
+      "waveMax": 1.04,
+      "windMax": 8.05,
+      "gustMax": 9.4,
+      "cond": "moderate"
+    },
+    "2024-04-15": {
+      "waveMax": 2.44,
+      "windMax": 14.46,
+      "gustMax": 18.8,
+      "cond": "rough"
+    },
+    "2024-04-16": {
+      "waveMax": 1.4,
+      "windMax": 7.9,
+      "gustMax": 10,
+      "cond": "moderate"
+    },
+    "2024-04-17": {
+      "waveMax": 0.46,
+      "windMax": 5.95,
+      "gustMax": 7.7,
+      "cond": "calm"
+    },
+    "2024-04-18": {
+      "waveMax": 0.76,
+      "windMax": 9.5,
+      "gustMax": 12.2,
+      "cond": "moderate"
+    },
+    "2024-04-19": {
+      "waveMax": 0.52,
+      "windMax": 6.44,
+      "gustMax": 8.3,
+      "cond": "calm"
+    },
+    "2024-04-20": {
+      "waveMax": 1.72,
+      "windMax": 12.37,
+      "gustMax": 16.1,
+      "cond": "moderate"
+    },
+    "2024-04-21": {
+      "waveMax": 1.74,
+      "windMax": 7.63,
+      "gustMax": 9.8,
+      "cond": "moderate"
+    },
+    "2024-04-22": {
+      "waveMax": 1.16,
+      "windMax": 9.16,
+      "gustMax": 11.6,
+      "cond": "moderate"
+    },
+    "2024-04-23": {
+      "waveMax": 1.44,
+      "windMax": 10.75,
+      "gustMax": 14.1,
+      "cond": "moderate"
+    },
+    "2024-04-24": {
+      "waveMax": 1.18,
+      "windMax": 9.14,
+      "gustMax": 12,
+      "cond": "moderate"
+    },
+    "2024-04-25": {
+      "waveMax": 0.74,
+      "windMax": 6.94,
+      "gustMax": 9.1,
+      "cond": "calm"
+    },
+    "2024-04-26": {
+      "waveMax": 0.52,
+      "windMax": 4.24,
+      "gustMax": 5.7,
+      "cond": "calm"
+    },
+    "2024-04-27": {
+      "waveMax": 0.36,
+      "windMax": 6.83,
+      "gustMax": 8.7,
+      "cond": "calm"
+    },
+    "2024-04-28": {
+      "waveMax": 0.32,
+      "windMax": 5.99,
+      "gustMax": 7.5,
+      "cond": "calm"
+    },
+    "2024-04-29": {
+      "waveMax": 1.28,
+      "windMax": 8.37,
+      "gustMax": 11.2,
+      "cond": "moderate"
+    },
+    "2024-04-30": {
+      "waveMax": 1.16,
+      "windMax": 9.33,
+      "gustMax": 12.1,
+      "cond": "moderate"
+    },
+    "2024-05-01": {
+      "waveMax": 1.76,
+      "windMax": 12.92,
+      "gustMax": 17.2,
+      "cond": "moderate"
+    },
+    "2024-05-02": {
+      "waveMax": 1.46,
+      "windMax": 12.88,
+      "gustMax": 17,
+      "cond": "moderate"
+    },
+    "2024-05-03": {
+      "waveMax": 0.72,
+      "windMax": 6.41,
+      "gustMax": 9.1,
+      "cond": "calm"
+    },
+    "2024-05-04": {
+      "waveMax": 0.9,
+      "windMax": 7.92,
+      "gustMax": 9.7,
+      "cond": "calm"
+    },
+    "2024-05-05": {
+      "waveMax": 2.42,
+      "windMax": 14.54,
+      "gustMax": 19,
+      "cond": "rough"
+    },
+    "2024-05-06": {
+      "waveMax": 2.54,
+      "windMax": 15.47,
+      "gustMax": 20.1,
+      "cond": "rough"
+    },
+    "2024-05-07": {
+      "waveMax": 0.96,
+      "windMax": 10,
+      "gustMax": 12.7,
+      "cond": "moderate"
+    },
+    "2024-05-08": {
+      "waveMax": 2.02,
+      "windMax": 14.9,
+      "gustMax": 20.4,
+      "cond": "rough"
+    },
+    "2024-05-09": {
+      "waveMax": 1.86,
+      "windMax": 12.43,
+      "gustMax": 16.6,
+      "cond": "moderate"
+    },
+    "2024-05-10": {
+      "waveMax": 0.72,
+      "windMax": 7.88,
+      "gustMax": 10.1,
+      "cond": "calm"
+    },
+    "2024-05-11": {
+      "waveMax": 1.38,
+      "windMax": 11.64,
+      "gustMax": 14.7,
+      "cond": "moderate"
+    },
+    "2024-05-12": {
+      "waveMax": 1.46,
+      "windMax": 12.13,
+      "gustMax": 15.5,
+      "cond": "moderate"
+    },
+    "2024-05-13": {
+      "waveMax": 1.16,
+      "windMax": 11.34,
+      "gustMax": 15,
+      "cond": "moderate"
+    },
+    "2024-05-14": {
+      "waveMax": 0.72,
+      "windMax": 8.45,
+      "gustMax": 11.2,
+      "cond": "moderate"
+    },
+    "2024-05-15": {
+      "waveMax": 1.1,
+      "windMax": 12.55,
+      "gustMax": 17.5,
+      "cond": "moderate"
+    },
+    "2024-05-16": {
+      "waveMax": 1.86,
+      "windMax": 16.68,
+      "gustMax": 22.9,
+      "cond": "rough"
+    },
+    "2024-05-17": {
+      "waveMax": 1.54,
+      "windMax": 9.8,
+      "gustMax": 12.7,
+      "cond": "moderate"
+    },
+    "2024-05-18": {
+      "waveMax": 0.48,
+      "windMax": 5,
+      "gustMax": 6.3,
+      "cond": "calm"
+    },
+    "2024-05-19": {
+      "waveMax": 0.5,
+      "windMax": 7.82,
+      "gustMax": 9.7,
+      "cond": "calm"
+    },
+    "2024-05-20": {
+      "waveMax": 0.56,
+      "windMax": 4.85,
+      "gustMax": 6.1,
+      "cond": "calm"
+    },
+    "2024-05-21": {
+      "waveMax": 1.2,
+      "windMax": 10.02,
+      "gustMax": 13.1,
+      "cond": "moderate"
+    },
+    "2024-05-22": {
+      "waveMax": 1,
+      "windMax": 8.5,
+      "gustMax": 11.2,
+      "cond": "moderate"
+    },
+    "2024-05-23": {
+      "waveMax": 0.64,
+      "windMax": 5.73,
+      "gustMax": 7.2,
+      "cond": "calm"
+    },
+    "2024-05-24": {
+      "waveMax": 0.74,
+      "windMax": 9.3,
+      "gustMax": 12.1,
+      "cond": "moderate"
+    },
+    "2024-05-25": {
+      "waveMax": 1.16,
+      "windMax": 10.79,
+      "gustMax": 13.9,
+      "cond": "moderate"
+    },
+    "2024-05-26": {
+      "waveMax": 1.5,
+      "windMax": 13.68,
+      "gustMax": 17.6,
+      "cond": "moderate"
+    },
+    "2024-05-27": {
+      "waveMax": 1.46,
+      "windMax": 12.68,
+      "gustMax": 16.7,
+      "cond": "moderate"
+    },
+    "2024-05-28": {
+      "waveMax": 1.32,
+      "windMax": 13.44,
+      "gustMax": 18.3,
+      "cond": "moderate"
+    },
+    "2024-05-29": {
+      "waveMax": 1.24,
+      "windMax": 11.37,
+      "gustMax": 15.1,
+      "cond": "moderate"
+    },
+    "2024-05-30": {
+      "waveMax": 0.72,
+      "windMax": 5.08,
+      "gustMax": 6.8,
+      "cond": "calm"
+    },
+    "2024-05-31": {
+      "waveMax": 0.6,
+      "windMax": 6.38,
+      "gustMax": 8.3,
+      "cond": "calm"
+    },
+    "2024-06-01": {
+      "waveMax": 0.5,
+      "windMax": 7.32,
+      "gustMax": 9.4,
+      "cond": "calm"
+    },
+    "2024-06-02": {
+      "waveMax": 0.66,
+      "windMax": 8.63,
+      "gustMax": 11.1,
+      "cond": "moderate"
+    },
+    "2024-06-03": {
+      "waveMax": 1.04,
+      "windMax": 10.35,
+      "gustMax": 13.9,
+      "cond": "moderate"
+    },
+    "2024-06-04": {
+      "waveMax": 1.16,
+      "windMax": 11.72,
+      "gustMax": 15.5,
+      "cond": "moderate"
+    },
+    "2024-06-05": {
+      "waveMax": 0.96,
+      "windMax": 9.12,
+      "gustMax": 12.4,
+      "cond": "moderate"
+    },
+    "2024-06-06": {
+      "waveMax": 0.54,
+      "windMax": 4.2,
+      "gustMax": 5.4,
+      "cond": "calm"
+    },
+    "2024-06-07": {
+      "waveMax": 0.36,
+      "windMax": 4.81,
+      "gustMax": 6.4,
+      "cond": "calm"
+    },
+    "2024-06-08": {
+      "waveMax": 1.62,
+      "windMax": 12.08,
+      "gustMax": 15.8,
+      "cond": "moderate"
+    },
+    "2024-06-09": {
+      "waveMax": 1.4,
+      "windMax": 9.77,
+      "gustMax": 13.4,
+      "cond": "moderate"
+    },
+    "2024-06-10": {
+      "waveMax": 0.68,
+      "windMax": 6.66,
+      "gustMax": 8.6,
+      "cond": "calm"
+    },
+    "2024-06-11": {
+      "waveMax": 0.32,
+      "windMax": 5.92,
+      "gustMax": 7.4,
+      "cond": "calm"
+    },
+    "2024-06-12": {
+      "waveMax": 0.66,
+      "windMax": 4.49,
+      "gustMax": 5.6,
+      "cond": "calm"
+    },
+    "2024-06-13": {
+      "waveMax": 0.58,
+      "windMax": 6.46,
+      "gustMax": 8.2,
+      "cond": "calm"
+    },
+    "2024-06-14": {
+      "waveMax": 0.56,
+      "windMax": 3.14,
+      "gustMax": 4.4,
+      "cond": "calm"
+    },
+    "2024-06-15": {
+      "waveMax": 0.64,
+      "windMax": 4.88,
+      "gustMax": 6.2,
+      "cond": "calm"
+    },
+    "2024-06-16": {
+      "waveMax": 0.8,
+      "windMax": 7.18,
+      "gustMax": 9.1,
+      "cond": "calm"
+    },
+    "2024-06-17": {
+      "waveMax": 0.68,
+      "windMax": 10.51,
+      "gustMax": 13.5,
+      "cond": "moderate"
+    },
+    "2024-06-18": {
+      "waveMax": 0.96,
+      "windMax": 12.81,
+      "gustMax": 17.4,
+      "cond": "moderate"
+    },
+    "2024-06-19": {
+      "waveMax": 0.72,
+      "windMax": 7.2,
+      "gustMax": 9.1,
+      "cond": "calm"
+    },
+    "2024-06-20": {
+      "waveMax": 1.5,
+      "windMax": 14.41,
+      "gustMax": 20.3,
+      "cond": "rough"
+    },
+    "2024-06-21": {
+      "waveMax": 1.42,
+      "windMax": 13.37,
+      "gustMax": 19,
+      "cond": "moderate"
+    },
+    "2024-06-22": {
+      "waveMax": 1.56,
+      "windMax": 13.43,
+      "gustMax": 17.9,
+      "cond": "moderate"
+    },
+    "2024-06-23": {
+      "waveMax": 1.74,
+      "windMax": 12.98,
+      "gustMax": 17.4,
+      "cond": "moderate"
+    },
+    "2024-06-24": {
+      "waveMax": 1.34,
+      "windMax": 9.9,
+      "gustMax": 12.7,
+      "cond": "moderate"
+    },
+    "2024-06-25": {
+      "waveMax": 0.9,
+      "windMax": 9.13,
+      "gustMax": 11.8,
+      "cond": "moderate"
+    },
+    "2024-06-26": {
+      "waveMax": 0.7,
+      "windMax": 6.31,
+      "gustMax": 8.5,
+      "cond": "calm"
+    },
+    "2024-06-27": {
+      "waveMax": 0.74,
+      "windMax": 12.82,
+      "gustMax": 18.7,
+      "cond": "moderate"
+    },
+    "2024-06-28": {
+      "waveMax": 1,
+      "windMax": 11.78,
+      "gustMax": 15.5,
+      "cond": "moderate"
+    },
+    "2024-06-29": {
+      "waveMax": 1.3,
+      "windMax": 13.9,
+      "gustMax": 19.7,
+      "cond": "rough"
+    },
+    "2024-06-30": {
+      "waveMax": 1.84,
+      "windMax": 13.87,
+      "gustMax": 18.9,
+      "cond": "moderate"
+    },
+    "2024-07-01": {
+      "waveMax": 1.46,
+      "windMax": 11.14,
+      "gustMax": 14.3,
+      "cond": "moderate"
+    },
+    "2024-07-02": {
+      "waveMax": 1.14,
+      "windMax": 11.51,
+      "gustMax": 14.4,
+      "cond": "moderate"
+    },
+    "2024-07-03": {
+      "waveMax": 1.3,
+      "windMax": 11.14,
+      "gustMax": 14.1,
+      "cond": "moderate"
+    },
+    "2024-07-04": {
+      "waveMax": 0.94,
+      "windMax": 9.29,
+      "gustMax": 11.7,
+      "cond": "moderate"
+    },
+    "2024-07-05": {
+      "waveMax": 0.86,
+      "windMax": 10.67,
+      "gustMax": 14,
+      "cond": "moderate"
+    },
+    "2024-07-06": {
+      "waveMax": 0.86,
+      "windMax": 10.74,
+      "gustMax": 13.9,
+      "cond": "moderate"
+    },
+    "2024-07-07": {
+      "waveMax": 0.92,
+      "windMax": 10.48,
+      "gustMax": 13.3,
+      "cond": "moderate"
+    },
+    "2024-07-08": {
+      "waveMax": 0.94,
+      "windMax": 10.89,
+      "gustMax": 13.9,
+      "cond": "moderate"
+    },
+    "2024-07-09": {
+      "waveMax": 1.08,
+      "windMax": 11.3,
+      "gustMax": 14.5,
+      "cond": "moderate"
+    },
+    "2024-07-10": {
+      "waveMax": 1.44,
+      "windMax": 14.85,
+      "gustMax": 20.9,
+      "cond": "rough"
+    },
+    "2024-07-11": {
+      "waveMax": 1.5,
+      "windMax": 13.02,
+      "gustMax": 17.6,
+      "cond": "moderate"
+    },
+    "2024-07-12": {
+      "waveMax": 0.94,
+      "windMax": 7.46,
+      "gustMax": 9.8,
+      "cond": "calm"
+    },
+    "2024-07-13": {
+      "waveMax": 0.88,
+      "windMax": 7.08,
+      "gustMax": 9,
+      "cond": "calm"
+    },
+    "2024-07-14": {
+      "waveMax": 1.36,
+      "windMax": 9.83,
+      "gustMax": 12.9,
+      "cond": "moderate"
+    },
+    "2024-07-15": {
+      "waveMax": 1.22,
+      "windMax": 10.75,
+      "gustMax": 15.1,
+      "cond": "moderate"
+    },
+    "2024-07-16": {
+      "waveMax": 0.72,
+      "windMax": 8.1,
+      "gustMax": 10.4,
+      "cond": "moderate"
+    },
+    "2024-07-17": {
+      "waveMax": 0.54,
+      "windMax": 7.53,
+      "gustMax": 9.4,
+      "cond": "calm"
+    },
+    "2024-07-18": {
+      "waveMax": 0.8,
+      "windMax": 10.71,
+      "gustMax": 13.8,
+      "cond": "moderate"
+    },
+    "2024-07-19": {
+      "waveMax": 1.12,
+      "windMax": 10.59,
+      "gustMax": 13.8,
+      "cond": "moderate"
+    },
+    "2024-07-20": {
+      "waveMax": 0.98,
+      "windMax": 9.21,
+      "gustMax": 12.7,
+      "cond": "moderate"
+    },
+    "2024-07-21": {
+      "waveMax": 0.72,
+      "windMax": 8.54,
+      "gustMax": 10.8,
+      "cond": "moderate"
+    },
+    "2024-07-22": {
+      "waveMax": 0.58,
+      "windMax": 7.69,
+      "gustMax": 9.6,
+      "cond": "calm"
+    },
+    "2024-07-23": {
+      "waveMax": 1.12,
+      "windMax": 8.41,
+      "gustMax": 10.5,
+      "cond": "moderate"
+    },
+    "2024-07-24": {
+      "waveMax": 1.3,
+      "windMax": 9.34,
+      "gustMax": 12.2,
+      "cond": "moderate"
+    },
+    "2024-07-25": {
+      "waveMax": 1.84,
+      "windMax": 8.91,
+      "gustMax": 11.9,
+      "cond": "moderate"
+    },
+    "2024-07-26": {
+      "waveMax": 2.24,
+      "windMax": 12.57,
+      "gustMax": 16.3,
+      "cond": "rough"
+    },
+    "2024-07-27": {
+      "waveMax": 2.02,
+      "windMax": 10.96,
+      "gustMax": 13.8,
+      "cond": "rough"
+    },
+    "2024-07-28": {
+      "waveMax": 1.5,
+      "windMax": 6.3,
+      "gustMax": 8,
+      "cond": "moderate"
+    },
+    "2024-07-29": {
+      "waveMax": 1.04,
+      "windMax": 8.01,
+      "gustMax": 10.1,
+      "cond": "moderate"
+    },
+    "2024-07-30": {
+      "waveMax": 0.58,
+      "windMax": 8.86,
+      "gustMax": 11.5,
+      "cond": "moderate"
+    },
+    "2024-07-31": {
+      "waveMax": 0.62,
+      "windMax": 7.53,
+      "gustMax": 9.9,
+      "cond": "calm"
+    },
+    "2024-08-01": {
+      "waveMax": 0.48,
+      "windMax": 7.8,
+      "gustMax": 10,
+      "cond": "calm"
+    },
+    "2024-08-02": {
+      "waveMax": 0.58,
+      "windMax": 8.23,
+      "gustMax": 10.5,
+      "cond": "moderate"
+    },
+    "2024-08-03": {
+      "waveMax": 0.58,
+      "windMax": 5.69,
+      "gustMax": 7.7,
+      "cond": "calm"
+    },
+    "2024-08-04": {
+      "waveMax": 0.52,
+      "windMax": 6.72,
+      "gustMax": 8.6,
+      "cond": "calm"
+    },
+    "2024-08-05": {
+      "waveMax": 0.84,
+      "windMax": 7.74,
+      "gustMax": 10,
+      "cond": "calm"
+    },
+    "2024-08-06": {
+      "waveMax": 0.68,
+      "windMax": 8.81,
+      "gustMax": 11.6,
+      "cond": "moderate"
+    },
+    "2024-08-07": {
+      "waveMax": 0.58,
+      "windMax": 8.68,
+      "gustMax": 11.6,
+      "cond": "moderate"
+    },
+    "2024-08-08": {
+      "waveMax": 0.46,
+      "windMax": 6.68,
+      "gustMax": 9.1,
+      "cond": "calm"
+    },
+    "2024-08-09": {
+      "waveMax": 0.38,
+      "windMax": 5.61,
+      "gustMax": 7.8,
+      "cond": "calm"
+    },
+    "2024-08-10": {
+      "waveMax": 0.72,
+      "windMax": 8.4,
+      "gustMax": 10.7,
+      "cond": "moderate"
+    },
+    "2024-08-11": {
+      "waveMax": 0.78,
+      "windMax": 9.08,
+      "gustMax": 11.7,
+      "cond": "moderate"
+    },
+    "2024-08-12": {
+      "waveMax": 0.96,
+      "windMax": 9.68,
+      "gustMax": 12.5,
+      "cond": "moderate"
+    },
+    "2024-08-13": {
+      "waveMax": 0.98,
+      "windMax": 10.46,
+      "gustMax": 13.4,
+      "cond": "moderate"
+    },
+    "2024-08-14": {
+      "waveMax": 0.9,
+      "windMax": 7.84,
+      "gustMax": 10.6,
+      "cond": "calm"
+    },
+    "2024-08-15": {
+      "waveMax": 0.88,
+      "windMax": 7.76,
+      "gustMax": 10,
+      "cond": "calm"
+    },
+    "2024-08-16": {
+      "waveMax": 0.8,
+      "windMax": 7.75,
+      "gustMax": 9.9,
+      "cond": "calm"
+    },
+    "2024-08-17": {
+      "waveMax": 0.8,
+      "windMax": 9.04,
+      "gustMax": 11.5,
+      "cond": "moderate"
+    },
+    "2024-08-18": {
+      "waveMax": 0.72,
+      "windMax": 7.32,
+      "gustMax": 9.4,
+      "cond": "calm"
+    },
+    "2024-08-19": {
+      "waveMax": 1.88,
+      "windMax": 14.08,
+      "gustMax": 18.2,
+      "cond": "rough"
+    },
+    "2024-08-20": {
+      "waveMax": 2.46,
+      "windMax": 11.63,
+      "gustMax": 15.5,
+      "cond": "rough"
+    },
+    "2024-08-21": {
+      "waveMax": 1.88,
+      "windMax": 9.2,
+      "gustMax": 11.9,
+      "cond": "moderate"
+    },
+    "2024-08-22": {
+      "waveMax": 1.06,
+      "windMax": 10.1,
+      "gustMax": 12.9,
+      "cond": "moderate"
+    },
+    "2024-08-23": {
+      "waveMax": 1.02,
+      "windMax": 9.23,
+      "gustMax": 12.4,
+      "cond": "moderate"
+    },
+    "2024-08-24": {
+      "waveMax": 0.72,
+      "windMax": 4.94,
+      "gustMax": 7,
+      "cond": "calm"
+    },
+    "2024-08-25": {
+      "waveMax": 0.44,
+      "windMax": 4.92,
+      "gustMax": 7.2,
+      "cond": "calm"
+    },
+    "2024-08-26": {
+      "waveMax": 0.5,
+      "windMax": 9.06,
+      "gustMax": 11.8,
+      "cond": "moderate"
+    },
+    "2024-08-27": {
+      "waveMax": 0.98,
+      "windMax": 10.5,
+      "gustMax": 14,
+      "cond": "moderate"
+    },
+    "2024-08-28": {
+      "waveMax": 2.2,
+      "windMax": 15.45,
+      "gustMax": 21.2,
+      "cond": "rough"
+    },
+    "2024-08-29": {
+      "waveMax": 3.72,
+      "windMax": 25.31,
+      "gustMax": 35.7,
+      "cond": "severe"
+    },
+    "2024-08-30": {
+      "waveMax": 2.98,
+      "windMax": 19.23,
+      "gustMax": 26.5,
+      "cond": "severe"
+    },
+    "2024-08-31": {
+      "waveMax": 1.62,
+      "windMax": 9.47,
+      "gustMax": 12.8,
+      "cond": "moderate"
+    },
+    "2024-09-01": {
+      "waveMax": 0.86,
+      "windMax": 8.21,
+      "gustMax": 10.5,
+      "cond": "moderate"
+    },
+    "2024-09-02": {
+      "waveMax": 0.64,
+      "windMax": 5.55,
+      "gustMax": 7.3,
+      "cond": "calm"
+    },
+    "2024-09-03": {
+      "waveMax": 1.3,
+      "windMax": 9.99,
+      "gustMax": 13,
+      "cond": "moderate"
+    },
+    "2024-09-04": {
+      "waveMax": 1.16,
+      "windMax": 9.98,
+      "gustMax": 12.7,
+      "cond": "moderate"
+    },
+    "2024-09-05": {
+      "waveMax": 0.72,
+      "windMax": 7.58,
+      "gustMax": 9.6,
+      "cond": "calm"
+    },
+    "2024-09-06": {
+      "waveMax": 0.34,
+      "windMax": 4.53,
+      "gustMax": 6.1,
+      "cond": "calm"
+    },
+    "2024-09-07": {
+      "waveMax": 0.76,
+      "windMax": 5.02,
+      "gustMax": 6.7,
+      "cond": "calm"
+    },
+    "2024-09-08": {
+      "waveMax": 0.5,
+      "windMax": 8.49,
+      "gustMax": 11.2,
+      "cond": "moderate"
+    },
+    "2024-09-09": {
+      "waveMax": 0.86,
+      "windMax": 9.85,
+      "gustMax": 12.9,
+      "cond": "moderate"
+    },
+    "2024-09-10": {
+      "waveMax": 0.82,
+      "windMax": 9.15,
+      "gustMax": 13,
+      "cond": "moderate"
+    },
+    "2024-09-11": {
+      "waveMax": 1.08,
+      "windMax": 8.68,
+      "gustMax": 11.7,
+      "cond": "moderate"
+    },
+    "2024-09-12": {
+      "waveMax": 0.9,
+      "windMax": 6.41,
+      "gustMax": 8.5,
+      "cond": "calm"
+    },
+    "2024-09-13": {
+      "waveMax": 0.56,
+      "windMax": 7.35,
+      "gustMax": 9.6,
+      "cond": "calm"
+    },
+    "2024-09-14": {
+      "waveMax": 0.66,
+      "windMax": 9.4,
+      "gustMax": 12.1,
+      "cond": "moderate"
+    },
+    "2024-09-15": {
+      "waveMax": 1.9,
+      "windMax": 8.02,
+      "gustMax": 10.1,
+      "cond": "moderate"
+    },
+    "2024-09-16": {
+      "waveMax": 1.92,
+      "windMax": 8.44,
+      "gustMax": 10.9,
+      "cond": "moderate"
+    },
+    "2024-09-17": {
+      "waveMax": 0.86,
+      "windMax": 8.42,
+      "gustMax": 10.6,
+      "cond": "moderate"
+    },
+    "2024-09-18": {
+      "waveMax": 0.6,
+      "windMax": 7.65,
+      "gustMax": 9.9,
+      "cond": "calm"
+    },
+    "2024-09-19": {
+      "waveMax": 1.8,
+      "windMax": 9.84,
+      "gustMax": 12.5,
+      "cond": "moderate"
+    },
+    "2024-09-20": {
+      "waveMax": 1.84,
+      "windMax": 12.49,
+      "gustMax": 16.1,
+      "cond": "moderate"
+    },
+    "2024-09-21": {
+      "waveMax": 2.38,
+      "windMax": 16.07,
+      "gustMax": 23.5,
+      "cond": "rough"
+    },
+    "2024-09-22": {
+      "waveMax": 2.34,
+      "windMax": 14.8,
+      "gustMax": 22,
+      "cond": "rough"
+    },
+    "2024-09-23": {
+      "waveMax": 2.18,
+      "windMax": 14.74,
+      "gustMax": 19.9,
+      "cond": "rough"
+    },
+    "2024-09-24": {
+      "waveMax": 1.7,
+      "windMax": 9.76,
+      "gustMax": 14.2,
+      "cond": "moderate"
+    },
+    "2024-09-25": {
+      "waveMax": 0.88,
+      "windMax": 9.06,
+      "gustMax": 12.5,
+      "cond": "moderate"
+    },
+    "2024-09-26": {
+      "waveMax": 0.8,
+      "windMax": 9.25,
+      "gustMax": 12.3,
+      "cond": "moderate"
+    },
+    "2024-09-27": {
+      "waveMax": 1.04,
+      "windMax": 10.51,
+      "gustMax": 14.3,
+      "cond": "moderate"
+    },
+    "2024-09-28": {
+      "waveMax": 1.56,
+      "windMax": 12.85,
+      "gustMax": 16.9,
+      "cond": "moderate"
+    },
+    "2024-09-29": {
+      "waveMax": 1.68,
+      "windMax": 12.38,
+      "gustMax": 16.2,
+      "cond": "moderate"
+    },
+    "2024-09-30": {
+      "waveMax": 0.92,
+      "windMax": 8.81,
+      "gustMax": 11.3,
+      "cond": "moderate"
+    },
+    "2024-10-01": {
+      "waveMax": 0.74,
+      "windMax": 5.97,
+      "gustMax": 7.5,
+      "cond": "calm"
+    },
+    "2024-10-02": {
+      "waveMax": 1.8,
+      "windMax": 15.06,
+      "gustMax": 20.7,
+      "cond": "rough"
+    },
+    "2024-10-03": {
+      "waveMax": 2.44,
+      "windMax": 11.92,
+      "gustMax": 15.7,
+      "cond": "rough"
+    },
+    "2024-10-04": {
+      "waveMax": 2.08,
+      "windMax": 14.85,
+      "gustMax": 20.5,
+      "cond": "rough"
+    },
+    "2024-10-05": {
+      "waveMax": 1.3,
+      "windMax": 10.99,
+      "gustMax": 14.4,
+      "cond": "moderate"
+    },
+    "2024-10-06": {
+      "waveMax": 1.28,
+      "windMax": 10.02,
+      "gustMax": 14,
+      "cond": "moderate"
+    },
+    "2024-10-07": {
+      "waveMax": 1.02,
+      "windMax": 10.53,
+      "gustMax": 14.8,
+      "cond": "moderate"
+    },
+    "2024-10-08": {
+      "waveMax": 1.26,
+      "windMax": 11.51,
+      "gustMax": 15.7,
+      "cond": "moderate"
+    },
+    "2024-10-09": {
+      "waveMax": 1.86,
+      "windMax": 12.45,
+      "gustMax": 16.5,
+      "cond": "moderate"
+    },
+    "2024-10-10": {
+      "waveMax": 1.34,
+      "windMax": 10.26,
+      "gustMax": 13.7,
+      "cond": "moderate"
+    },
+    "2024-10-11": {
+      "waveMax": 0.92,
+      "windMax": 10.07,
+      "gustMax": 13.6,
+      "cond": "moderate"
+    },
+    "2024-10-12": {
+      "waveMax": 0.98,
+      "windMax": 10.74,
+      "gustMax": 14.3,
+      "cond": "moderate"
+    },
+    "2024-10-13": {
+      "waveMax": 0.8,
+      "windMax": 8.26,
+      "gustMax": 11.5,
+      "cond": "moderate"
+    },
+    "2024-10-14": {
+      "waveMax": 0.8,
+      "windMax": 8.77,
+      "gustMax": 11,
+      "cond": "moderate"
+    },
+    "2024-10-15": {
+      "waveMax": 0.88,
+      "windMax": 9.99,
+      "gustMax": 13.4,
+      "cond": "moderate"
+    },
+    "2024-10-16": {
+      "waveMax": 1.1,
+      "windMax": 10.26,
+      "gustMax": 13.6,
+      "cond": "moderate"
+    },
+    "2024-10-17": {
+      "waveMax": 1.34,
+      "windMax": 10.64,
+      "gustMax": 13.7,
+      "cond": "moderate"
+    },
+    "2024-10-18": {
+      "waveMax": 1.28,
+      "windMax": 11.21,
+      "gustMax": 14.5,
+      "cond": "moderate"
+    },
+    "2024-10-19": {
+      "waveMax": 2.7,
+      "windMax": 19.07,
+      "gustMax": 27.3,
+      "cond": "severe"
+    },
+    "2024-10-20": {
+      "waveMax": 3.46,
+      "windMax": 18.53,
+      "gustMax": 26.2,
+      "cond": "severe"
+    },
+    "2024-10-21": {
+      "waveMax": 1.96,
+      "windMax": 10.47,
+      "gustMax": 15.3,
+      "cond": "moderate"
+    },
+    "2024-10-22": {
+      "waveMax": 2.04,
+      "windMax": 13.46,
+      "gustMax": 17.8,
+      "cond": "rough"
+    },
+    "2024-10-23": {
+      "waveMax": 2.04,
+      "windMax": 12.31,
+      "gustMax": 16.6,
+      "cond": "rough"
+    },
+    "2024-10-24": {
+      "waveMax": 0.94,
+      "windMax": 11.36,
+      "gustMax": 15.4,
+      "cond": "moderate"
+    },
+    "2024-10-25": {
+      "waveMax": 1.34,
+      "windMax": 10.85,
+      "gustMax": 14.6,
+      "cond": "moderate"
+    },
+    "2024-10-26": {
+      "waveMax": 1.16,
+      "windMax": 8.93,
+      "gustMax": 11.7,
+      "cond": "moderate"
+    },
+    "2024-10-27": {
+      "waveMax": 1.52,
+      "windMax": 12.24,
+      "gustMax": 17.1,
+      "cond": "moderate"
+    },
+    "2024-10-28": {
+      "waveMax": 1.8,
+      "windMax": 14.2,
+      "gustMax": 19.2,
+      "cond": "rough"
+    },
+    "2024-10-29": {
+      "waveMax": 2.04,
+      "windMax": 13.31,
+      "gustMax": 18.4,
+      "cond": "rough"
+    },
+    "2024-10-30": {
+      "waveMax": 1.38,
+      "windMax": 12.56,
+      "gustMax": 16.9,
+      "cond": "moderate"
+    },
+    "2024-10-31": {
+      "waveMax": 1.28,
+      "windMax": 11.91,
+      "gustMax": 15.9,
+      "cond": "moderate"
+    },
+    "2024-11-01": {
+      "waveMax": 1.74,
+      "windMax": 15.45,
+      "gustMax": 20.7,
+      "cond": "rough"
+    },
+    "2024-11-02": {
+      "waveMax": 3.16,
+      "windMax": 18.72,
+      "gustMax": 27.6,
+      "cond": "severe"
+    },
+    "2024-11-03": {
+      "waveMax": 2.1,
+      "windMax": 14.02,
+      "gustMax": 18.8,
+      "cond": "rough"
+    },
+    "2024-11-04": {
+      "waveMax": 0.62,
+      "windMax": 7.55,
+      "gustMax": 10.2,
+      "cond": "calm"
+    },
+    "2024-11-05": {
+      "waveMax": 1.24,
+      "windMax": 11.31,
+      "gustMax": 15.6,
+      "cond": "moderate"
+    },
+    "2024-11-06": {
+      "waveMax": 1.36,
+      "windMax": 13.14,
+      "gustMax": 18.2,
+      "cond": "moderate"
+    },
+    "2024-11-07": {
+      "waveMax": 0.82,
+      "windMax": 11.3,
+      "gustMax": 15.1,
+      "cond": "moderate"
+    },
+    "2024-11-08": {
+      "waveMax": 0.68,
+      "windMax": 9.97,
+      "gustMax": 13.7,
+      "cond": "moderate"
+    },
+    "2024-11-09": {
+      "waveMax": 0.62,
+      "windMax": 8.16,
+      "gustMax": 10.9,
+      "cond": "moderate"
+    },
+    "2024-11-10": {
+      "waveMax": 0.62,
+      "windMax": 8.93,
+      "gustMax": 12.3,
+      "cond": "moderate"
+    },
+    "2024-11-11": {
+      "waveMax": 0.9,
+      "windMax": 10.12,
+      "gustMax": 13.9,
+      "cond": "moderate"
+    },
+    "2024-11-12": {
+      "waveMax": 0.64,
+      "windMax": 7.86,
+      "gustMax": 10.7,
+      "cond": "calm"
+    },
+    "2024-11-13": {
+      "waveMax": 1.04,
+      "windMax": 11.98,
+      "gustMax": 16,
+      "cond": "moderate"
+    },
+    "2024-11-14": {
+      "waveMax": 0.86,
+      "windMax": 9.46,
+      "gustMax": 12.7,
+      "cond": "moderate"
+    },
+    "2024-11-15": {
+      "waveMax": 0.58,
+      "windMax": 8.94,
+      "gustMax": 13.2,
+      "cond": "moderate"
+    },
+    "2024-11-16": {
+      "waveMax": 0.52,
+      "windMax": 8.43,
+      "gustMax": 11.2,
+      "cond": "moderate"
+    },
+    "2024-11-17": {
+      "waveMax": 1.54,
+      "windMax": 13.28,
+      "gustMax": 17.6,
+      "cond": "moderate"
+    },
+    "2024-11-18": {
+      "waveMax": 1.66,
+      "windMax": 13.52,
+      "gustMax": 19.1,
+      "cond": "moderate"
+    },
+    "2024-11-19": {
+      "waveMax": 1.38,
+      "windMax": 13.09,
+      "gustMax": 17.7,
+      "cond": "moderate"
+    },
+    "2024-11-20": {
+      "waveMax": 0.9,
+      "windMax": 7.65,
+      "gustMax": 10.8,
+      "cond": "calm"
+    },
+    "2024-11-21": {
+      "waveMax": 0.94,
+      "windMax": 9.67,
+      "gustMax": 13.8,
+      "cond": "moderate"
+    },
+    "2024-11-22": {
+      "waveMax": 1.1,
+      "windMax": 10.29,
+      "gustMax": 14.2,
+      "cond": "moderate"
+    },
+    "2024-11-23": {
+      "waveMax": 0.9,
+      "windMax": 9.9,
+      "gustMax": 13.9,
+      "cond": "moderate"
+    },
+    "2024-11-24": {
+      "waveMax": 0.94,
+      "windMax": 9.55,
+      "gustMax": 13.7,
+      "cond": "moderate"
+    },
+    "2024-11-25": {
+      "waveMax": 1.32,
+      "windMax": 13.18,
+      "gustMax": 17.7,
+      "cond": "moderate"
+    },
+    "2024-11-26": {
+      "waveMax": 2.32,
+      "windMax": 17.53,
+      "gustMax": 26,
+      "cond": "severe"
+    },
+    "2024-11-27": {
+      "waveMax": 2,
+      "windMax": 14.76,
+      "gustMax": 20.9,
+      "cond": "rough"
+    },
+    "2024-11-28": {
+      "waveMax": 1.76,
+      "windMax": 14.25,
+      "gustMax": 22.1,
+      "cond": "rough"
+    },
+    "2024-11-29": {
+      "waveMax": 1.86,
+      "windMax": 14.54,
+      "gustMax": 20.3,
+      "cond": "rough"
+    },
+    "2024-11-30": {
+      "waveMax": 1.74,
+      "windMax": 13.03,
+      "gustMax": 19.7,
+      "cond": "moderate"
+    },
+    "2024-12-01": {
+      "waveMax": 0.8,
+      "windMax": 7.69,
+      "gustMax": 10.7,
+      "cond": "calm"
+    },
+    "2024-12-02": {
+      "waveMax": 0.66,
+      "windMax": 8.56,
+      "gustMax": 11.8,
+      "cond": "moderate"
+    },
+    "2024-12-03": {
+      "waveMax": 0.8,
+      "windMax": 9.67,
+      "gustMax": 13.1,
+      "cond": "moderate"
+    },
+    "2024-12-04": {
+      "waveMax": 1.28,
+      "windMax": 11.11,
+      "gustMax": 15.4,
+      "cond": "moderate"
+    },
+    "2024-12-05": {
+      "waveMax": 1.46,
+      "windMax": 11.59,
+      "gustMax": 16.5,
+      "cond": "moderate"
+    },
+    "2024-12-06": {
+      "waveMax": 1.24,
+      "windMax": 12.04,
+      "gustMax": 16.4,
+      "cond": "moderate"
+    },
+    "2024-12-07": {
+      "waveMax": 1.2,
+      "windMax": 11.49,
+      "gustMax": 16,
+      "cond": "moderate"
+    },
+    "2024-12-08": {
+      "waveMax": 1.84,
+      "windMax": 13.8,
+      "gustMax": 20.3,
+      "cond": "moderate"
+    },
+    "2024-12-09": {
+      "waveMax": 1.08,
+      "windMax": 9.02,
+      "gustMax": 12.9,
+      "cond": "moderate"
+    },
+    "2024-12-10": {
+      "waveMax": 0.72,
+      "windMax": 9.03,
+      "gustMax": 12.8,
+      "cond": "moderate"
+    },
+    "2024-12-11": {
+      "waveMax": 0.94,
+      "windMax": 10.32,
+      "gustMax": 14,
+      "cond": "moderate"
+    },
+    "2024-12-12": {
+      "waveMax": 1.5,
+      "windMax": 10.34,
+      "gustMax": 14.4,
+      "cond": "moderate"
+    },
+    "2024-12-13": {
+      "waveMax": 1.3,
+      "windMax": 11.62,
+      "gustMax": 16.9,
+      "cond": "moderate"
+    },
+    "2024-12-14": {
+      "waveMax": 2.18,
+      "windMax": 14.12,
+      "gustMax": 20,
+      "cond": "rough"
+    },
+    "2024-12-15": {
+      "waveMax": 1.52,
+      "windMax": 12.58,
+      "gustMax": 17.6,
+      "cond": "moderate"
+    },
+    "2024-12-16": {
+      "waveMax": 1.16,
+      "windMax": 11.57,
+      "gustMax": 16,
+      "cond": "moderate"
+    },
+    "2024-12-17": {
+      "waveMax": 1.04,
+      "windMax": 10.12,
+      "gustMax": 14.3,
+      "cond": "moderate"
+    },
+    "2024-12-18": {
+      "waveMax": 1.58,
+      "windMax": 13.99,
+      "gustMax": 19.8,
+      "cond": "rough"
+    },
+    "2024-12-19": {
+      "waveMax": 2.84,
+      "windMax": 15.7,
+      "gustMax": 22.3,
+      "cond": "rough"
+    },
+    "2024-12-20": {
+      "waveMax": 1.24,
+      "windMax": 6.12,
+      "gustMax": 9,
+      "cond": "moderate"
+    },
+    "2024-12-21": {
+      "waveMax": 1.88,
+      "windMax": 15.41,
+      "gustMax": 21.7,
+      "cond": "rough"
+    },
+    "2024-12-22": {
+      "waveMax": 2,
+      "windMax": 15.96,
+      "gustMax": 22.4,
+      "cond": "rough"
+    },
+    "2024-12-23": {
+      "waveMax": 1.52,
+      "windMax": 9.27,
+      "gustMax": 12.8,
+      "cond": "moderate"
+    },
+    "2024-12-24": {
+      "waveMax": 1.16,
+      "windMax": 10.48,
+      "gustMax": 14.4,
+      "cond": "moderate"
+    },
+    "2024-12-25": {
+      "waveMax": 1.14,
+      "windMax": 9.8,
+      "gustMax": 14,
+      "cond": "moderate"
+    },
+    "2024-12-26": {
+      "waveMax": 1.46,
+      "windMax": 12.34,
+      "gustMax": 16.8,
+      "cond": "moderate"
+    },
+    "2024-12-27": {
+      "waveMax": 1.62,
+      "windMax": 12.99,
+      "gustMax": 18,
+      "cond": "moderate"
+    },
+    "2024-12-28": {
+      "waveMax": 1.96,
+      "windMax": 13.71,
+      "gustMax": 19.8,
+      "cond": "moderate"
+    },
+    "2024-12-29": {
+      "waveMax": 1.44,
+      "windMax": 12.09,
+      "gustMax": 17,
+      "cond": "moderate"
+    },
+    "2024-12-30": {
+      "waveMax": 0.92,
+      "windMax": 10.47,
+      "gustMax": 14.1,
+      "cond": "moderate"
+    },
+    "2024-12-31": {
+      "waveMax": 1.28,
+      "windMax": 12.32,
+      "gustMax": 16.8,
+      "cond": "moderate"
+    }
+  }
+}

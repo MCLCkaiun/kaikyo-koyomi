@@ -1,0 +1,2202 @@
+{
+  "route": "taiheiyo-engan",
+  "year": 2020,
+  "days": {
+    "2020-01-01": {
+      "waveMax": null,
+      "windMax": 17.9,
+      "gustMax": 26.6,
+      "cond": "severe"
+    },
+    "2020-01-02": {
+      "waveMax": null,
+      "windMax": 13.38,
+      "gustMax": 19.8,
+      "cond": "moderate"
+    },
+    "2020-01-03": {
+      "waveMax": null,
+      "windMax": 13.24,
+      "gustMax": 18.9,
+      "cond": "moderate"
+    },
+    "2020-01-04": {
+      "waveMax": null,
+      "windMax": 14.1,
+      "gustMax": 21.6,
+      "cond": "rough"
+    },
+    "2020-01-05": {
+      "waveMax": null,
+      "windMax": 16.11,
+      "gustMax": 23,
+      "cond": "rough"
+    },
+    "2020-01-06": {
+      "waveMax": null,
+      "windMax": 12.3,
+      "gustMax": 18.2,
+      "cond": "moderate"
+    },
+    "2020-01-07": {
+      "waveMax": null,
+      "windMax": 10.64,
+      "gustMax": 15.4,
+      "cond": "moderate"
+    },
+    "2020-01-08": {
+      "waveMax": null,
+      "windMax": 23.05,
+      "gustMax": 36,
+      "cond": "severe"
+    },
+    "2020-01-09": {
+      "waveMax": null,
+      "windMax": 17.85,
+      "gustMax": 26.4,
+      "cond": "severe"
+    },
+    "2020-01-10": {
+      "waveMax": null,
+      "windMax": 13.23,
+      "gustMax": 18.6,
+      "cond": "moderate"
+    },
+    "2020-01-11": {
+      "waveMax": null,
+      "windMax": 10.02,
+      "gustMax": 14.7,
+      "cond": "moderate"
+    },
+    "2020-01-12": {
+      "waveMax": null,
+      "windMax": 10.35,
+      "gustMax": 14.5,
+      "cond": "moderate"
+    },
+    "2020-01-13": {
+      "waveMax": null,
+      "windMax": 12.28,
+      "gustMax": 17.7,
+      "cond": "moderate"
+    },
+    "2020-01-14": {
+      "waveMax": null,
+      "windMax": 10.27,
+      "gustMax": 14.4,
+      "cond": "moderate"
+    },
+    "2020-01-15": {
+      "waveMax": null,
+      "windMax": 13.48,
+      "gustMax": 19.7,
+      "cond": "moderate"
+    },
+    "2020-01-16": {
+      "waveMax": null,
+      "windMax": 12.75,
+      "gustMax": 18.7,
+      "cond": "moderate"
+    },
+    "2020-01-17": {
+      "waveMax": null,
+      "windMax": 12.78,
+      "gustMax": 17.8,
+      "cond": "moderate"
+    },
+    "2020-01-18": {
+      "waveMax": null,
+      "windMax": 17.21,
+      "gustMax": 25.5,
+      "cond": "severe"
+    },
+    "2020-01-19": {
+      "waveMax": null,
+      "windMax": 13.25,
+      "gustMax": 18.9,
+      "cond": "moderate"
+    },
+    "2020-01-20": {
+      "waveMax": null,
+      "windMax": 14.7,
+      "gustMax": 21.1,
+      "cond": "rough"
+    },
+    "2020-01-21": {
+      "waveMax": null,
+      "windMax": 15.8,
+      "gustMax": 23.2,
+      "cond": "rough"
+    },
+    "2020-01-22": {
+      "waveMax": null,
+      "windMax": 12.13,
+      "gustMax": 17.9,
+      "cond": "moderate"
+    },
+    "2020-01-23": {
+      "waveMax": null,
+      "windMax": 13.84,
+      "gustMax": 19.5,
+      "cond": "moderate"
+    },
+    "2020-01-24": {
+      "waveMax": null,
+      "windMax": 12.74,
+      "gustMax": 17.8,
+      "cond": "moderate"
+    },
+    "2020-01-25": {
+      "waveMax": null,
+      "windMax": 12.18,
+      "gustMax": 17.6,
+      "cond": "moderate"
+    },
+    "2020-01-26": {
+      "waveMax": null,
+      "windMax": 10.47,
+      "gustMax": 14.8,
+      "cond": "moderate"
+    },
+    "2020-01-27": {
+      "waveMax": null,
+      "windMax": 19.78,
+      "gustMax": 31.5,
+      "cond": "severe"
+    },
+    "2020-01-28": {
+      "waveMax": null,
+      "windMax": 22.52,
+      "gustMax": 33.7,
+      "cond": "severe"
+    },
+    "2020-01-29": {
+      "waveMax": null,
+      "windMax": 13.7,
+      "gustMax": 20.6,
+      "cond": "moderate"
+    },
+    "2020-01-30": {
+      "waveMax": null,
+      "windMax": 15.88,
+      "gustMax": 22,
+      "cond": "rough"
+    },
+    "2020-01-31": {
+      "waveMax": null,
+      "windMax": 18.54,
+      "gustMax": 28.7,
+      "cond": "severe"
+    },
+    "2020-02-01": {
+      "waveMax": null,
+      "windMax": 16.08,
+      "gustMax": 23.7,
+      "cond": "rough"
+    },
+    "2020-02-02": {
+      "waveMax": null,
+      "windMax": 13.05,
+      "gustMax": 19.3,
+      "cond": "moderate"
+    },
+    "2020-02-03": {
+      "waveMax": null,
+      "windMax": 13.79,
+      "gustMax": 19.8,
+      "cond": "moderate"
+    },
+    "2020-02-04": {
+      "waveMax": null,
+      "windMax": 14.51,
+      "gustMax": 20.9,
+      "cond": "rough"
+    },
+    "2020-02-05": {
+      "waveMax": null,
+      "windMax": 15.84,
+      "gustMax": 23.7,
+      "cond": "rough"
+    },
+    "2020-02-06": {
+      "waveMax": null,
+      "windMax": 15.52,
+      "gustMax": 22.8,
+      "cond": "rough"
+    },
+    "2020-02-07": {
+      "waveMax": null,
+      "windMax": 10.72,
+      "gustMax": 16.1,
+      "cond": "moderate"
+    },
+    "2020-02-08": {
+      "waveMax": null,
+      "windMax": 14.04,
+      "gustMax": 20.3,
+      "cond": "rough"
+    },
+    "2020-02-09": {
+      "waveMax": null,
+      "windMax": 15.62,
+      "gustMax": 24.3,
+      "cond": "rough"
+    },
+    "2020-02-10": {
+      "waveMax": null,
+      "windMax": 15.74,
+      "gustMax": 22.8,
+      "cond": "rough"
+    },
+    "2020-02-11": {
+      "waveMax": null,
+      "windMax": 16.15,
+      "gustMax": 22.9,
+      "cond": "rough"
+    },
+    "2020-02-12": {
+      "waveMax": null,
+      "windMax": 13.01,
+      "gustMax": 18.1,
+      "cond": "moderate"
+    },
+    "2020-02-13": {
+      "waveMax": null,
+      "windMax": 16.56,
+      "gustMax": 24.8,
+      "cond": "rough"
+    },
+    "2020-02-14": {
+      "waveMax": null,
+      "windMax": 10.12,
+      "gustMax": 14.3,
+      "cond": "moderate"
+    },
+    "2020-02-15": {
+      "waveMax": null,
+      "windMax": 10.74,
+      "gustMax": 15.1,
+      "cond": "moderate"
+    },
+    "2020-02-16": {
+      "waveMax": null,
+      "windMax": 17.16,
+      "gustMax": 26.7,
+      "cond": "rough"
+    },
+    "2020-02-17": {
+      "waveMax": null,
+      "windMax": 18.6,
+      "gustMax": 26.5,
+      "cond": "severe"
+    },
+    "2020-02-18": {
+      "waveMax": null,
+      "windMax": 17.4,
+      "gustMax": 25.7,
+      "cond": "severe"
+    },
+    "2020-02-19": {
+      "waveMax": null,
+      "windMax": 15.14,
+      "gustMax": 21.8,
+      "cond": "rough"
+    },
+    "2020-02-20": {
+      "waveMax": null,
+      "windMax": 12.79,
+      "gustMax": 18.3,
+      "cond": "moderate"
+    },
+    "2020-02-21": {
+      "waveMax": null,
+      "windMax": 10.76,
+      "gustMax": 16.5,
+      "cond": "moderate"
+    },
+    "2020-02-22": {
+      "waveMax": null,
+      "windMax": 17.33,
+      "gustMax": 25.3,
+      "cond": "severe"
+    },
+    "2020-02-23": {
+      "waveMax": null,
+      "windMax": 16.29,
+      "gustMax": 23.4,
+      "cond": "rough"
+    },
+    "2020-02-24": {
+      "waveMax": null,
+      "windMax": 13.2,
+      "gustMax": 19.4,
+      "cond": "moderate"
+    },
+    "2020-02-25": {
+      "waveMax": null,
+      "windMax": 11.32,
+      "gustMax": 15.7,
+      "cond": "moderate"
+    },
+    "2020-02-26": {
+      "waveMax": null,
+      "windMax": 13.49,
+      "gustMax": 19.4,
+      "cond": "moderate"
+    },
+    "2020-02-27": {
+      "waveMax": null,
+      "windMax": 16.18,
+      "gustMax": 23.1,
+      "cond": "rough"
+    },
+    "2020-02-28": {
+      "waveMax": null,
+      "windMax": 12.96,
+      "gustMax": 18.6,
+      "cond": "moderate"
+    },
+    "2020-02-29": {
+      "waveMax": null,
+      "windMax": 8.82,
+      "gustMax": 12.2,
+      "cond": "moderate"
+    },
+    "2020-03-01": {
+      "waveMax": null,
+      "windMax": 10.91,
+      "gustMax": 15.2,
+      "cond": "moderate"
+    },
+    "2020-03-02": {
+      "waveMax": null,
+      "windMax": 13.48,
+      "gustMax": 19.1,
+      "cond": "moderate"
+    },
+    "2020-03-03": {
+      "waveMax": null,
+      "windMax": 14.78,
+      "gustMax": 21.4,
+      "cond": "rough"
+    },
+    "2020-03-04": {
+      "waveMax": null,
+      "windMax": 13.86,
+      "gustMax": 18.9,
+      "cond": "moderate"
+    },
+    "2020-03-05": {
+      "waveMax": null,
+      "windMax": 17.56,
+      "gustMax": 26.1,
+      "cond": "severe"
+    },
+    "2020-03-06": {
+      "waveMax": null,
+      "windMax": 15.98,
+      "gustMax": 23.3,
+      "cond": "rough"
+    },
+    "2020-03-07": {
+      "waveMax": null,
+      "windMax": 12.07,
+      "gustMax": 16.4,
+      "cond": "moderate"
+    },
+    "2020-03-08": {
+      "waveMax": null,
+      "windMax": 16.7,
+      "gustMax": 23.4,
+      "cond": "rough"
+    },
+    "2020-03-09": {
+      "waveMax": null,
+      "windMax": 15.02,
+      "gustMax": 21.4,
+      "cond": "rough"
+    },
+    "2020-03-10": {
+      "waveMax": null,
+      "windMax": 15.79,
+      "gustMax": 23.4,
+      "cond": "rough"
+    },
+    "2020-03-11": {
+      "waveMax": null,
+      "windMax": 16.24,
+      "gustMax": 22,
+      "cond": "rough"
+    },
+    "2020-03-12": {
+      "waveMax": null,
+      "windMax": 13.92,
+      "gustMax": 19.7,
+      "cond": "rough"
+    },
+    "2020-03-13": {
+      "waveMax": null,
+      "windMax": 13.57,
+      "gustMax": 18.6,
+      "cond": "moderate"
+    },
+    "2020-03-14": {
+      "waveMax": null,
+      "windMax": 13.65,
+      "gustMax": 19.1,
+      "cond": "moderate"
+    },
+    "2020-03-15": {
+      "waveMax": null,
+      "windMax": 12.31,
+      "gustMax": 18.3,
+      "cond": "moderate"
+    },
+    "2020-03-16": {
+      "waveMax": null,
+      "windMax": 16.76,
+      "gustMax": 24.8,
+      "cond": "rough"
+    },
+    "2020-03-17": {
+      "waveMax": null,
+      "windMax": 15.63,
+      "gustMax": 22,
+      "cond": "rough"
+    },
+    "2020-03-18": {
+      "waveMax": null,
+      "windMax": 15.62,
+      "gustMax": 21.4,
+      "cond": "rough"
+    },
+    "2020-03-19": {
+      "waveMax": null,
+      "windMax": 15.95,
+      "gustMax": 21,
+      "cond": "rough"
+    },
+    "2020-03-20": {
+      "waveMax": null,
+      "windMax": 17.99,
+      "gustMax": 27.2,
+      "cond": "severe"
+    },
+    "2020-03-21": {
+      "waveMax": null,
+      "windMax": 15.48,
+      "gustMax": 20.8,
+      "cond": "rough"
+    },
+    "2020-03-22": {
+      "waveMax": null,
+      "windMax": 13.66,
+      "gustMax": 18.3,
+      "cond": "moderate"
+    },
+    "2020-03-23": {
+      "waveMax": null,
+      "windMax": 14.12,
+      "gustMax": 19.8,
+      "cond": "rough"
+    },
+    "2020-03-24": {
+      "waveMax": null,
+      "windMax": 15.84,
+      "gustMax": 23.1,
+      "cond": "rough"
+    },
+    "2020-03-25": {
+      "waveMax": null,
+      "windMax": 12.92,
+      "gustMax": 18.7,
+      "cond": "moderate"
+    },
+    "2020-03-26": {
+      "waveMax": null,
+      "windMax": 9.14,
+      "gustMax": 11.8,
+      "cond": "moderate"
+    },
+    "2020-03-27": {
+      "waveMax": null,
+      "windMax": 14.31,
+      "gustMax": 19.3,
+      "cond": "rough"
+    },
+    "2020-03-28": {
+      "waveMax": null,
+      "windMax": 16.82,
+      "gustMax": 23.9,
+      "cond": "rough"
+    },
+    "2020-03-29": {
+      "waveMax": null,
+      "windMax": 21.09,
+      "gustMax": 30.4,
+      "cond": "severe"
+    },
+    "2020-03-30": {
+      "waveMax": null,
+      "windMax": 11.25,
+      "gustMax": 15.7,
+      "cond": "moderate"
+    },
+    "2020-03-31": {
+      "waveMax": null,
+      "windMax": 12.19,
+      "gustMax": 16.6,
+      "cond": "moderate"
+    },
+    "2020-04-01": {
+      "waveMax": null,
+      "windMax": 16.43,
+      "gustMax": 21.2,
+      "cond": "rough"
+    },
+    "2020-04-02": {
+      "waveMax": null,
+      "windMax": 19.16,
+      "gustMax": 28.2,
+      "cond": "severe"
+    },
+    "2020-04-03": {
+      "waveMax": null,
+      "windMax": 11.6,
+      "gustMax": 18.3,
+      "cond": "moderate"
+    },
+    "2020-04-04": {
+      "waveMax": null,
+      "windMax": 11.74,
+      "gustMax": 16.4,
+      "cond": "moderate"
+    },
+    "2020-04-05": {
+      "waveMax": null,
+      "windMax": 17.39,
+      "gustMax": 25.1,
+      "cond": "severe"
+    },
+    "2020-04-06": {
+      "waveMax": null,
+      "windMax": 14.89,
+      "gustMax": 21.8,
+      "cond": "rough"
+    },
+    "2020-04-07": {
+      "waveMax": null,
+      "windMax": 11.81,
+      "gustMax": 16.5,
+      "cond": "moderate"
+    },
+    "2020-04-08": {
+      "waveMax": null,
+      "windMax": 10.96,
+      "gustMax": 14.9,
+      "cond": "moderate"
+    },
+    "2020-04-09": {
+      "waveMax": null,
+      "windMax": 12.26,
+      "gustMax": 16.3,
+      "cond": "moderate"
+    },
+    "2020-04-10": {
+      "waveMax": null,
+      "windMax": 15.48,
+      "gustMax": 22.4,
+      "cond": "rough"
+    },
+    "2020-04-11": {
+      "waveMax": null,
+      "windMax": 10.04,
+      "gustMax": 16.8,
+      "cond": "moderate"
+    },
+    "2020-04-12": {
+      "waveMax": null,
+      "windMax": 19.31,
+      "gustMax": 28.7,
+      "cond": "severe"
+    },
+    "2020-04-13": {
+      "waveMax": null,
+      "windMax": 21.36,
+      "gustMax": 31.5,
+      "cond": "severe"
+    },
+    "2020-04-14": {
+      "waveMax": null,
+      "windMax": 16.41,
+      "gustMax": 23.7,
+      "cond": "rough"
+    },
+    "2020-04-15": {
+      "waveMax": null,
+      "windMax": 9.78,
+      "gustMax": 13.9,
+      "cond": "moderate"
+    },
+    "2020-04-16": {
+      "waveMax": null,
+      "windMax": 13.78,
+      "gustMax": 18.5,
+      "cond": "moderate"
+    },
+    "2020-04-17": {
+      "waveMax": null,
+      "windMax": 10.64,
+      "gustMax": 14.7,
+      "cond": "moderate"
+    },
+    "2020-04-18": {
+      "waveMax": null,
+      "windMax": 19.15,
+      "gustMax": 29.2,
+      "cond": "severe"
+    },
+    "2020-04-19": {
+      "waveMax": null,
+      "windMax": 18.21,
+      "gustMax": 26.4,
+      "cond": "severe"
+    },
+    "2020-04-20": {
+      "waveMax": null,
+      "windMax": 15.07,
+      "gustMax": 21.4,
+      "cond": "rough"
+    },
+    "2020-04-21": {
+      "waveMax": null,
+      "windMax": 14.15,
+      "gustMax": 18.6,
+      "cond": "rough"
+    },
+    "2020-04-22": {
+      "waveMax": null,
+      "windMax": 16.17,
+      "gustMax": 23.6,
+      "cond": "rough"
+    },
+    "2020-04-23": {
+      "waveMax": null,
+      "windMax": 14.36,
+      "gustMax": 20,
+      "cond": "rough"
+    },
+    "2020-04-24": {
+      "waveMax": null,
+      "windMax": 16.36,
+      "gustMax": 22.7,
+      "cond": "rough"
+    },
+    "2020-04-25": {
+      "waveMax": null,
+      "windMax": 11.68,
+      "gustMax": 18.3,
+      "cond": "moderate"
+    },
+    "2020-04-26": {
+      "waveMax": null,
+      "windMax": 12.73,
+      "gustMax": 16.4,
+      "cond": "moderate"
+    },
+    "2020-04-27": {
+      "waveMax": null,
+      "windMax": 11.92,
+      "gustMax": 17.5,
+      "cond": "moderate"
+    },
+    "2020-04-28": {
+      "waveMax": null,
+      "windMax": 12.22,
+      "gustMax": 16.7,
+      "cond": "moderate"
+    },
+    "2020-04-29": {
+      "waveMax": null,
+      "windMax": 11.01,
+      "gustMax": 15.1,
+      "cond": "moderate"
+    },
+    "2020-04-30": {
+      "waveMax": null,
+      "windMax": 9.86,
+      "gustMax": 12.4,
+      "cond": "moderate"
+    },
+    "2020-05-01": {
+      "waveMax": null,
+      "windMax": 10.54,
+      "gustMax": 13.8,
+      "cond": "moderate"
+    },
+    "2020-05-02": {
+      "waveMax": null,
+      "windMax": 10.56,
+      "gustMax": 13.5,
+      "cond": "moderate"
+    },
+    "2020-05-03": {
+      "waveMax": null,
+      "windMax": 10.14,
+      "gustMax": 13.5,
+      "cond": "moderate"
+    },
+    "2020-05-04": {
+      "waveMax": null,
+      "windMax": 9.97,
+      "gustMax": 13.9,
+      "cond": "moderate"
+    },
+    "2020-05-05": {
+      "waveMax": null,
+      "windMax": 10.37,
+      "gustMax": 14.2,
+      "cond": "moderate"
+    },
+    "2020-05-06": {
+      "waveMax": null,
+      "windMax": 9.23,
+      "gustMax": 12.9,
+      "cond": "moderate"
+    },
+    "2020-05-07": {
+      "waveMax": null,
+      "windMax": 11.16,
+      "gustMax": 16,
+      "cond": "moderate"
+    },
+    "2020-05-08": {
+      "waveMax": null,
+      "windMax": 7.63,
+      "gustMax": 10.5,
+      "cond": "calm"
+    },
+    "2020-05-09": {
+      "waveMax": null,
+      "windMax": 8.92,
+      "gustMax": 11.4,
+      "cond": "moderate"
+    },
+    "2020-05-10": {
+      "waveMax": null,
+      "windMax": 14.19,
+      "gustMax": 19.4,
+      "cond": "rough"
+    },
+    "2020-05-11": {
+      "waveMax": null,
+      "windMax": 13.58,
+      "gustMax": 18.2,
+      "cond": "moderate"
+    },
+    "2020-05-12": {
+      "waveMax": null,
+      "windMax": 9.62,
+      "gustMax": 12.2,
+      "cond": "moderate"
+    },
+    "2020-05-13": {
+      "waveMax": null,
+      "windMax": 14.97,
+      "gustMax": 20.5,
+      "cond": "rough"
+    },
+    "2020-05-14": {
+      "waveMax": null,
+      "windMax": 13.83,
+      "gustMax": 20.5,
+      "cond": "moderate"
+    },
+    "2020-05-15": {
+      "waveMax": null,
+      "windMax": 6.79,
+      "gustMax": 8.5,
+      "cond": "calm"
+    },
+    "2020-05-16": {
+      "waveMax": null,
+      "windMax": 10.94,
+      "gustMax": 21.6,
+      "cond": "moderate"
+    },
+    "2020-05-17": {
+      "waveMax": null,
+      "windMax": 11.73,
+      "gustMax": 15.5,
+      "cond": "moderate"
+    },
+    "2020-05-18": {
+      "waveMax": null,
+      "windMax": 7.85,
+      "gustMax": 10.7,
+      "cond": "calm"
+    },
+    "2020-05-19": {
+      "waveMax": null,
+      "windMax": 15.69,
+      "gustMax": 24.8,
+      "cond": "rough"
+    },
+    "2020-05-20": {
+      "waveMax": null,
+      "windMax": 11.78,
+      "gustMax": 15.6,
+      "cond": "moderate"
+    },
+    "2020-05-21": {
+      "waveMax": null,
+      "windMax": 10.82,
+      "gustMax": 15,
+      "cond": "moderate"
+    },
+    "2020-05-22": {
+      "waveMax": null,
+      "windMax": 13.61,
+      "gustMax": 18.1,
+      "cond": "moderate"
+    },
+    "2020-05-23": {
+      "waveMax": null,
+      "windMax": 10.68,
+      "gustMax": 14,
+      "cond": "moderate"
+    },
+    "2020-05-24": {
+      "waveMax": null,
+      "windMax": 6.8,
+      "gustMax": 9.6,
+      "cond": "calm"
+    },
+    "2020-05-25": {
+      "waveMax": null,
+      "windMax": 7.07,
+      "gustMax": 9,
+      "cond": "calm"
+    },
+    "2020-05-26": {
+      "waveMax": null,
+      "windMax": 8.49,
+      "gustMax": 10.4,
+      "cond": "moderate"
+    },
+    "2020-05-27": {
+      "waveMax": null,
+      "windMax": 12.03,
+      "gustMax": 15.3,
+      "cond": "moderate"
+    },
+    "2020-05-28": {
+      "waveMax": null,
+      "windMax": 11.09,
+      "gustMax": 15,
+      "cond": "moderate"
+    },
+    "2020-05-29": {
+      "waveMax": null,
+      "windMax": 5.33,
+      "gustMax": 7.6,
+      "cond": "calm"
+    },
+    "2020-05-30": {
+      "waveMax": null,
+      "windMax": 5.5,
+      "gustMax": 7.5,
+      "cond": "calm"
+    },
+    "2020-05-31": {
+      "waveMax": null,
+      "windMax": 10.21,
+      "gustMax": 14.6,
+      "cond": "moderate"
+    },
+    "2020-06-01": {
+      "waveMax": null,
+      "windMax": 10.15,
+      "gustMax": 13.8,
+      "cond": "moderate"
+    },
+    "2020-06-02": {
+      "waveMax": null,
+      "windMax": 7.99,
+      "gustMax": 10.4,
+      "cond": "calm"
+    },
+    "2020-06-03": {
+      "waveMax": null,
+      "windMax": 7.62,
+      "gustMax": 9.3,
+      "cond": "calm"
+    },
+    "2020-06-04": {
+      "waveMax": null,
+      "windMax": 6.22,
+      "gustMax": 7.7,
+      "cond": "calm"
+    },
+    "2020-06-05": {
+      "waveMax": null,
+      "windMax": 8.23,
+      "gustMax": 10.5,
+      "cond": "moderate"
+    },
+    "2020-06-06": {
+      "waveMax": null,
+      "windMax": 8.32,
+      "gustMax": 10.2,
+      "cond": "moderate"
+    },
+    "2020-06-07": {
+      "waveMax": null,
+      "windMax": 9.22,
+      "gustMax": 13.7,
+      "cond": "moderate"
+    },
+    "2020-06-08": {
+      "waveMax": null,
+      "windMax": 6.22,
+      "gustMax": 7.9,
+      "cond": "calm"
+    },
+    "2020-06-09": {
+      "waveMax": null,
+      "windMax": 9.22,
+      "gustMax": 11.6,
+      "cond": "moderate"
+    },
+    "2020-06-10": {
+      "waveMax": null,
+      "windMax": 10.21,
+      "gustMax": 12.9,
+      "cond": "moderate"
+    },
+    "2020-06-11": {
+      "waveMax": null,
+      "windMax": 16.5,
+      "gustMax": 22.8,
+      "cond": "rough"
+    },
+    "2020-06-12": {
+      "waveMax": null,
+      "windMax": 16.57,
+      "gustMax": 22.6,
+      "cond": "rough"
+    },
+    "2020-06-13": {
+      "waveMax": null,
+      "windMax": 16.54,
+      "gustMax": 21.7,
+      "cond": "rough"
+    },
+    "2020-06-14": {
+      "waveMax": null,
+      "windMax": 15.56,
+      "gustMax": 21.7,
+      "cond": "rough"
+    },
+    "2020-06-15": {
+      "waveMax": null,
+      "windMax": 18.04,
+      "gustMax": 23.9,
+      "cond": "severe"
+    },
+    "2020-06-16": {
+      "waveMax": null,
+      "windMax": 9.88,
+      "gustMax": 12.3,
+      "cond": "moderate"
+    },
+    "2020-06-17": {
+      "waveMax": null,
+      "windMax": 9.55,
+      "gustMax": 13,
+      "cond": "moderate"
+    },
+    "2020-06-18": {
+      "waveMax": null,
+      "windMax": 10.9,
+      "gustMax": 14.9,
+      "cond": "moderate"
+    },
+    "2020-06-19": {
+      "waveMax": null,
+      "windMax": 14.1,
+      "gustMax": 20.7,
+      "cond": "rough"
+    },
+    "2020-06-20": {
+      "waveMax": null,
+      "windMax": 6.65,
+      "gustMax": 9.4,
+      "cond": "calm"
+    },
+    "2020-06-21": {
+      "waveMax": null,
+      "windMax": 11.6,
+      "gustMax": 15.5,
+      "cond": "moderate"
+    },
+    "2020-06-22": {
+      "waveMax": null,
+      "windMax": 15.16,
+      "gustMax": 21.2,
+      "cond": "rough"
+    },
+    "2020-06-23": {
+      "waveMax": null,
+      "windMax": 11.93,
+      "gustMax": 16.5,
+      "cond": "moderate"
+    },
+    "2020-06-24": {
+      "waveMax": null,
+      "windMax": 11.08,
+      "gustMax": 16.3,
+      "cond": "moderate"
+    },
+    "2020-06-25": {
+      "waveMax": null,
+      "windMax": 11.11,
+      "gustMax": 18.4,
+      "cond": "moderate"
+    },
+    "2020-06-26": {
+      "waveMax": null,
+      "windMax": 14.27,
+      "gustMax": 18.9,
+      "cond": "rough"
+    },
+    "2020-06-27": {
+      "waveMax": null,
+      "windMax": 12.21,
+      "gustMax": 16.3,
+      "cond": "moderate"
+    },
+    "2020-06-28": {
+      "waveMax": null,
+      "windMax": 18.76,
+      "gustMax": 25.6,
+      "cond": "severe"
+    },
+    "2020-06-29": {
+      "waveMax": null,
+      "windMax": 10.88,
+      "gustMax": 14.8,
+      "cond": "moderate"
+    },
+    "2020-06-30": {
+      "waveMax": null,
+      "windMax": 14.58,
+      "gustMax": 20.6,
+      "cond": "rough"
+    },
+    "2020-07-01": {
+      "waveMax": null,
+      "windMax": 16.87,
+      "gustMax": 24,
+      "cond": "rough"
+    },
+    "2020-07-02": {
+      "waveMax": null,
+      "windMax": 15.7,
+      "gustMax": 23.1,
+      "cond": "rough"
+    },
+    "2020-07-03": {
+      "waveMax": null,
+      "windMax": 10.74,
+      "gustMax": 15.4,
+      "cond": "moderate"
+    },
+    "2020-07-04": {
+      "waveMax": null,
+      "windMax": 15.09,
+      "gustMax": 21.4,
+      "cond": "rough"
+    },
+    "2020-07-05": {
+      "waveMax": null,
+      "windMax": 14.84,
+      "gustMax": 20.2,
+      "cond": "rough"
+    },
+    "2020-07-06": {
+      "waveMax": null,
+      "windMax": 12.97,
+      "gustMax": 17.1,
+      "cond": "moderate"
+    },
+    "2020-07-07": {
+      "waveMax": null,
+      "windMax": 13.31,
+      "gustMax": 17.5,
+      "cond": "moderate"
+    },
+    "2020-07-08": {
+      "waveMax": null,
+      "windMax": 14.56,
+      "gustMax": 19.2,
+      "cond": "rough"
+    },
+    "2020-07-09": {
+      "waveMax": null,
+      "windMax": 11.24,
+      "gustMax": 16.5,
+      "cond": "moderate"
+    },
+    "2020-07-10": {
+      "waveMax": null,
+      "windMax": 9.13,
+      "gustMax": 11.6,
+      "cond": "moderate"
+    },
+    "2020-07-11": {
+      "waveMax": null,
+      "windMax": 13.92,
+      "gustMax": 18.3,
+      "cond": "rough"
+    },
+    "2020-07-12": {
+      "waveMax": null,
+      "windMax": 14.67,
+      "gustMax": 19.4,
+      "cond": "rough"
+    },
+    "2020-07-13": {
+      "waveMax": null,
+      "windMax": 11.64,
+      "gustMax": 15.9,
+      "cond": "moderate"
+    },
+    "2020-07-14": {
+      "waveMax": null,
+      "windMax": 13.96,
+      "gustMax": 19.2,
+      "cond": "rough"
+    },
+    "2020-07-15": {
+      "waveMax": null,
+      "windMax": 10.18,
+      "gustMax": 15,
+      "cond": "moderate"
+    },
+    "2020-07-16": {
+      "waveMax": null,
+      "windMax": 7.67,
+      "gustMax": 10.1,
+      "cond": "calm"
+    },
+    "2020-07-17": {
+      "waveMax": null,
+      "windMax": 12.75,
+      "gustMax": 19.2,
+      "cond": "moderate"
+    },
+    "2020-07-18": {
+      "waveMax": null,
+      "windMax": 11.33,
+      "gustMax": 16.7,
+      "cond": "moderate"
+    },
+    "2020-07-19": {
+      "waveMax": null,
+      "windMax": 9.28,
+      "gustMax": 13.8,
+      "cond": "moderate"
+    },
+    "2020-07-20": {
+      "waveMax": null,
+      "windMax": 5.19,
+      "gustMax": 6.7,
+      "cond": "calm"
+    },
+    "2020-07-21": {
+      "waveMax": null,
+      "windMax": 5.56,
+      "gustMax": 7.2,
+      "cond": "calm"
+    },
+    "2020-07-22": {
+      "waveMax": null,
+      "windMax": 8.5,
+      "gustMax": 10.9,
+      "cond": "moderate"
+    },
+    "2020-07-23": {
+      "waveMax": null,
+      "windMax": 9.12,
+      "gustMax": 11.9,
+      "cond": "moderate"
+    },
+    "2020-07-24": {
+      "waveMax": null,
+      "windMax": 7.07,
+      "gustMax": 9,
+      "cond": "calm"
+    },
+    "2020-07-25": {
+      "waveMax": null,
+      "windMax": 8.6,
+      "gustMax": 13.2,
+      "cond": "moderate"
+    },
+    "2020-07-26": {
+      "waveMax": null,
+      "windMax": 8.26,
+      "gustMax": 12.3,
+      "cond": "moderate"
+    },
+    "2020-07-27": {
+      "waveMax": null,
+      "windMax": 9.54,
+      "gustMax": 12.1,
+      "cond": "moderate"
+    },
+    "2020-07-28": {
+      "waveMax": null,
+      "windMax": 14.7,
+      "gustMax": 19.3,
+      "cond": "rough"
+    },
+    "2020-07-29": {
+      "waveMax": null,
+      "windMax": 10.44,
+      "gustMax": 13.6,
+      "cond": "moderate"
+    },
+    "2020-07-30": {
+      "waveMax": null,
+      "windMax": 8.27,
+      "gustMax": 11.1,
+      "cond": "moderate"
+    },
+    "2020-07-31": {
+      "waveMax": null,
+      "windMax": 8.97,
+      "gustMax": 11.8,
+      "cond": "moderate"
+    },
+    "2020-08-01": {
+      "waveMax": null,
+      "windMax": 8.15,
+      "gustMax": 11.1,
+      "cond": "moderate"
+    },
+    "2020-08-02": {
+      "waveMax": null,
+      "windMax": 7.7,
+      "gustMax": 10.7,
+      "cond": "calm"
+    },
+    "2020-08-03": {
+      "waveMax": null,
+      "windMax": 4.34,
+      "gustMax": 5.6,
+      "cond": "calm"
+    },
+    "2020-08-04": {
+      "waveMax": null,
+      "windMax": 4.11,
+      "gustMax": 5.2,
+      "cond": "calm"
+    },
+    "2020-08-05": {
+      "waveMax": null,
+      "windMax": 4.3,
+      "gustMax": 5.3,
+      "cond": "calm"
+    },
+    "2020-08-06": {
+      "waveMax": null,
+      "windMax": 6.66,
+      "gustMax": 9.1,
+      "cond": "calm"
+    },
+    "2020-08-07": {
+      "waveMax": null,
+      "windMax": 11.07,
+      "gustMax": 14.3,
+      "cond": "moderate"
+    },
+    "2020-08-08": {
+      "waveMax": null,
+      "windMax": 10.41,
+      "gustMax": 13.3,
+      "cond": "moderate"
+    },
+    "2020-08-09": {
+      "waveMax": null,
+      "windMax": 12.4,
+      "gustMax": 16.2,
+      "cond": "moderate"
+    },
+    "2020-08-10": {
+      "waveMax": null,
+      "windMax": 10.04,
+      "gustMax": 12.6,
+      "cond": "moderate"
+    },
+    "2020-08-11": {
+      "waveMax": null,
+      "windMax": 11.05,
+      "gustMax": 13.9,
+      "cond": "moderate"
+    },
+    "2020-08-12": {
+      "waveMax": null,
+      "windMax": 11.29,
+      "gustMax": 14.2,
+      "cond": "moderate"
+    },
+    "2020-08-13": {
+      "waveMax": null,
+      "windMax": 9.22,
+      "gustMax": 12,
+      "cond": "moderate"
+    },
+    "2020-08-14": {
+      "waveMax": null,
+      "windMax": 10.02,
+      "gustMax": 12.9,
+      "cond": "moderate"
+    },
+    "2020-08-15": {
+      "waveMax": null,
+      "windMax": 10.69,
+      "gustMax": 14.4,
+      "cond": "moderate"
+    },
+    "2020-08-16": {
+      "waveMax": null,
+      "windMax": 10.84,
+      "gustMax": 14.4,
+      "cond": "moderate"
+    },
+    "2020-08-17": {
+      "waveMax": null,
+      "windMax": 11.27,
+      "gustMax": 15.3,
+      "cond": "moderate"
+    },
+    "2020-08-18": {
+      "waveMax": null,
+      "windMax": 6.6,
+      "gustMax": 9,
+      "cond": "calm"
+    },
+    "2020-08-19": {
+      "waveMax": null,
+      "windMax": 6.58,
+      "gustMax": 8.7,
+      "cond": "calm"
+    },
+    "2020-08-20": {
+      "waveMax": null,
+      "windMax": 4.59,
+      "gustMax": 5.9,
+      "cond": "calm"
+    },
+    "2020-08-21": {
+      "waveMax": null,
+      "windMax": 4.27,
+      "gustMax": 5.2,
+      "cond": "calm"
+    },
+    "2020-08-22": {
+      "waveMax": null,
+      "windMax": 4.94,
+      "gustMax": 7.1,
+      "cond": "calm"
+    },
+    "2020-08-23": {
+      "waveMax": null,
+      "windMax": 10.36,
+      "gustMax": 14,
+      "cond": "moderate"
+    },
+    "2020-08-24": {
+      "waveMax": null,
+      "windMax": 7.72,
+      "gustMax": 10.2,
+      "cond": "calm"
+    },
+    "2020-08-25": {
+      "waveMax": null,
+      "windMax": 7.24,
+      "gustMax": 9.6,
+      "cond": "calm"
+    },
+    "2020-08-26": {
+      "waveMax": null,
+      "windMax": 8.85,
+      "gustMax": 11.6,
+      "cond": "moderate"
+    },
+    "2020-08-27": {
+      "waveMax": null,
+      "windMax": 10.5,
+      "gustMax": 13.9,
+      "cond": "moderate"
+    },
+    "2020-08-28": {
+      "waveMax": null,
+      "windMax": 10.88,
+      "gustMax": 14.5,
+      "cond": "moderate"
+    },
+    "2020-08-29": {
+      "waveMax": null,
+      "windMax": 4.14,
+      "gustMax": 5.8,
+      "cond": "calm"
+    },
+    "2020-08-30": {
+      "waveMax": null,
+      "windMax": 4.33,
+      "gustMax": 5.5,
+      "cond": "calm"
+    },
+    "2020-08-31": {
+      "waveMax": null,
+      "windMax": 8.49,
+      "gustMax": 11.3,
+      "cond": "moderate"
+    },
+    "2020-09-01": {
+      "waveMax": null,
+      "windMax": 9.71,
+      "gustMax": 13.1,
+      "cond": "moderate"
+    },
+    "2020-09-02": {
+      "waveMax": null,
+      "windMax": 11.9,
+      "gustMax": 16,
+      "cond": "moderate"
+    },
+    "2020-09-03": {
+      "waveMax": null,
+      "windMax": 10.52,
+      "gustMax": 15.1,
+      "cond": "moderate"
+    },
+    "2020-09-04": {
+      "waveMax": null,
+      "windMax": 7.04,
+      "gustMax": 9.6,
+      "cond": "calm"
+    },
+    "2020-09-05": {
+      "waveMax": null,
+      "windMax": 8.35,
+      "gustMax": 11.7,
+      "cond": "moderate"
+    },
+    "2020-09-06": {
+      "waveMax": null,
+      "windMax": 12.62,
+      "gustMax": 17.2,
+      "cond": "moderate"
+    },
+    "2020-09-07": {
+      "waveMax": null,
+      "windMax": 13.63,
+      "gustMax": 19.9,
+      "cond": "moderate"
+    },
+    "2020-09-08": {
+      "waveMax": null,
+      "windMax": 10.14,
+      "gustMax": 13,
+      "cond": "moderate"
+    },
+    "2020-09-09": {
+      "waveMax": null,
+      "windMax": 9.55,
+      "gustMax": 12.8,
+      "cond": "moderate"
+    },
+    "2020-09-10": {
+      "waveMax": null,
+      "windMax": 6.57,
+      "gustMax": 10.2,
+      "cond": "calm"
+    },
+    "2020-09-11": {
+      "waveMax": null,
+      "windMax": 7.28,
+      "gustMax": 10.6,
+      "cond": "calm"
+    },
+    "2020-09-12": {
+      "waveMax": null,
+      "windMax": 11.61,
+      "gustMax": 16.4,
+      "cond": "moderate"
+    },
+    "2020-09-13": {
+      "waveMax": null,
+      "windMax": 8.21,
+      "gustMax": 12.4,
+      "cond": "moderate"
+    },
+    "2020-09-14": {
+      "waveMax": null,
+      "windMax": 11.23,
+      "gustMax": 15.4,
+      "cond": "moderate"
+    },
+    "2020-09-15": {
+      "waveMax": null,
+      "windMax": 8.8,
+      "gustMax": 12.6,
+      "cond": "moderate"
+    },
+    "2020-09-16": {
+      "waveMax": null,
+      "windMax": 7.53,
+      "gustMax": 10.1,
+      "cond": "calm"
+    },
+    "2020-09-17": {
+      "waveMax": null,
+      "windMax": 9.71,
+      "gustMax": 12.7,
+      "cond": "moderate"
+    },
+    "2020-09-18": {
+      "waveMax": null,
+      "windMax": 14.8,
+      "gustMax": 19.8,
+      "cond": "rough"
+    },
+    "2020-09-19": {
+      "waveMax": null,
+      "windMax": 12.79,
+      "gustMax": 18.8,
+      "cond": "moderate"
+    },
+    "2020-09-20": {
+      "waveMax": null,
+      "windMax": 9.17,
+      "gustMax": 13.8,
+      "cond": "moderate"
+    },
+    "2020-09-21": {
+      "waveMax": null,
+      "windMax": 7.22,
+      "gustMax": 9.4,
+      "cond": "calm"
+    },
+    "2020-09-22": {
+      "waveMax": null,
+      "windMax": 13.87,
+      "gustMax": 18.8,
+      "cond": "moderate"
+    },
+    "2020-09-23": {
+      "waveMax": null,
+      "windMax": 16.67,
+      "gustMax": 23.1,
+      "cond": "rough"
+    },
+    "2020-09-24": {
+      "waveMax": null,
+      "windMax": 17.76,
+      "gustMax": 23.9,
+      "cond": "severe"
+    },
+    "2020-09-25": {
+      "waveMax": null,
+      "windMax": 16.93,
+      "gustMax": 24.5,
+      "cond": "rough"
+    },
+    "2020-09-26": {
+      "waveMax": null,
+      "windMax": 11.83,
+      "gustMax": 15.9,
+      "cond": "moderate"
+    },
+    "2020-09-27": {
+      "waveMax": null,
+      "windMax": 10.89,
+      "gustMax": 14.6,
+      "cond": "moderate"
+    },
+    "2020-09-28": {
+      "waveMax": null,
+      "windMax": 10.5,
+      "gustMax": 14,
+      "cond": "moderate"
+    },
+    "2020-09-29": {
+      "waveMax": null,
+      "windMax": 12.91,
+      "gustMax": 17.9,
+      "cond": "moderate"
+    },
+    "2020-09-30": {
+      "waveMax": null,
+      "windMax": 11.53,
+      "gustMax": 16.7,
+      "cond": "moderate"
+    },
+    "2020-10-01": {
+      "waveMax": null,
+      "windMax": 8.61,
+      "gustMax": 12.6,
+      "cond": "moderate"
+    },
+    "2020-10-02": {
+      "waveMax": null,
+      "windMax": 6.52,
+      "gustMax": 9,
+      "cond": "calm"
+    },
+    "2020-10-03": {
+      "waveMax": null,
+      "windMax": 6.14,
+      "gustMax": 8.4,
+      "cond": "calm"
+    },
+    "2020-10-04": {
+      "waveMax": null,
+      "windMax": 5.19,
+      "gustMax": 7.3,
+      "cond": "calm"
+    },
+    "2020-10-05": {
+      "waveMax": null,
+      "windMax": 14.37,
+      "gustMax": 20.4,
+      "cond": "rough"
+    },
+    "2020-10-06": {
+      "waveMax": null,
+      "windMax": 12.8,
+      "gustMax": 18.8,
+      "cond": "moderate"
+    },
+    "2020-10-07": {
+      "waveMax": null,
+      "windMax": 13.43,
+      "gustMax": 18.2,
+      "cond": "moderate"
+    },
+    "2020-10-08": {
+      "waveMax": null,
+      "windMax": 15.38,
+      "gustMax": 21,
+      "cond": "rough"
+    },
+    "2020-10-09": {
+      "waveMax": null,
+      "windMax": 18.29,
+      "gustMax": 26.2,
+      "cond": "severe"
+    },
+    "2020-10-10": {
+      "waveMax": null,
+      "windMax": 21.05,
+      "gustMax": 30,
+      "cond": "severe"
+    },
+    "2020-10-11": {
+      "waveMax": null,
+      "windMax": 16.03,
+      "gustMax": 21.6,
+      "cond": "rough"
+    },
+    "2020-10-12": {
+      "waveMax": null,
+      "windMax": 11.01,
+      "gustMax": 15.8,
+      "cond": "moderate"
+    },
+    "2020-10-13": {
+      "waveMax": null,
+      "windMax": 10.91,
+      "gustMax": 15.5,
+      "cond": "moderate"
+    },
+    "2020-10-14": {
+      "waveMax": null,
+      "windMax": 9.97,
+      "gustMax": 13.4,
+      "cond": "moderate"
+    },
+    "2020-10-15": {
+      "waveMax": null,
+      "windMax": 14.92,
+      "gustMax": 20.6,
+      "cond": "rough"
+    },
+    "2020-10-16": {
+      "waveMax": null,
+      "windMax": 15.11,
+      "gustMax": 21,
+      "cond": "rough"
+    },
+    "2020-10-17": {
+      "waveMax": null,
+      "windMax": 12.43,
+      "gustMax": 17.7,
+      "cond": "moderate"
+    },
+    "2020-10-18": {
+      "waveMax": null,
+      "windMax": 11.17,
+      "gustMax": 15.2,
+      "cond": "moderate"
+    },
+    "2020-10-19": {
+      "waveMax": null,
+      "windMax": 10.17,
+      "gustMax": 14.5,
+      "cond": "moderate"
+    },
+    "2020-10-20": {
+      "waveMax": null,
+      "windMax": 12.12,
+      "gustMax": 16.9,
+      "cond": "moderate"
+    },
+    "2020-10-21": {
+      "waveMax": null,
+      "windMax": 12.2,
+      "gustMax": 16.7,
+      "cond": "moderate"
+    },
+    "2020-10-22": {
+      "waveMax": null,
+      "windMax": 12.73,
+      "gustMax": 17.2,
+      "cond": "moderate"
+    },
+    "2020-10-23": {
+      "waveMax": null,
+      "windMax": 14.92,
+      "gustMax": 21.6,
+      "cond": "rough"
+    },
+    "2020-10-24": {
+      "waveMax": null,
+      "windMax": 15.6,
+      "gustMax": 21.8,
+      "cond": "rough"
+    },
+    "2020-10-25": {
+      "waveMax": null,
+      "windMax": 14.31,
+      "gustMax": 20.2,
+      "cond": "rough"
+    },
+    "2020-10-26": {
+      "waveMax": null,
+      "windMax": 12.94,
+      "gustMax": 18.1,
+      "cond": "moderate"
+    },
+    "2020-10-27": {
+      "waveMax": null,
+      "windMax": 8.72,
+      "gustMax": 12.3,
+      "cond": "moderate"
+    },
+    "2020-10-28": {
+      "waveMax": null,
+      "windMax": 7.16,
+      "gustMax": 10.5,
+      "cond": "calm"
+    },
+    "2020-10-29": {
+      "waveMax": null,
+      "windMax": 13.51,
+      "gustMax": 19,
+      "cond": "moderate"
+    },
+    "2020-10-30": {
+      "waveMax": null,
+      "windMax": 12.81,
+      "gustMax": 18.1,
+      "cond": "moderate"
+    },
+    "2020-10-31": {
+      "waveMax": null,
+      "windMax": 11.99,
+      "gustMax": 17,
+      "cond": "moderate"
+    },
+    "2020-11-01": {
+      "waveMax": null,
+      "windMax": 9.8,
+      "gustMax": 14,
+      "cond": "moderate"
+    },
+    "2020-11-02": {
+      "waveMax": null,
+      "windMax": 10.56,
+      "gustMax": 16.9,
+      "cond": "moderate"
+    },
+    "2020-11-03": {
+      "waveMax": null,
+      "windMax": 15.39,
+      "gustMax": 22.4,
+      "cond": "rough"
+    },
+    "2020-11-04": {
+      "waveMax": null,
+      "windMax": 16.06,
+      "gustMax": 23.2,
+      "cond": "rough"
+    },
+    "2020-11-05": {
+      "waveMax": null,
+      "windMax": 12.8,
+      "gustMax": 18.2,
+      "cond": "moderate"
+    },
+    "2020-11-06": {
+      "waveMax": null,
+      "windMax": 8.77,
+      "gustMax": 11.9,
+      "cond": "moderate"
+    },
+    "2020-11-07": {
+      "waveMax": null,
+      "windMax": 12.23,
+      "gustMax": 17.6,
+      "cond": "moderate"
+    },
+    "2020-11-08": {
+      "waveMax": null,
+      "windMax": 13.9,
+      "gustMax": 19.3,
+      "cond": "rough"
+    },
+    "2020-11-09": {
+      "waveMax": null,
+      "windMax": 14.01,
+      "gustMax": 19.9,
+      "cond": "rough"
+    },
+    "2020-11-10": {
+      "waveMax": null,
+      "windMax": 13.4,
+      "gustMax": 19.3,
+      "cond": "moderate"
+    },
+    "2020-11-11": {
+      "waveMax": null,
+      "windMax": 13.95,
+      "gustMax": 20.1,
+      "cond": "rough"
+    },
+    "2020-11-12": {
+      "waveMax": null,
+      "windMax": 11.72,
+      "gustMax": 16.3,
+      "cond": "moderate"
+    },
+    "2020-11-13": {
+      "waveMax": null,
+      "windMax": 10.67,
+      "gustMax": 15,
+      "cond": "moderate"
+    },
+    "2020-11-14": {
+      "waveMax": null,
+      "windMax": 9.64,
+      "gustMax": 14.1,
+      "cond": "moderate"
+    },
+    "2020-11-15": {
+      "waveMax": null,
+      "windMax": 8.05,
+      "gustMax": 11.2,
+      "cond": "moderate"
+    },
+    "2020-11-16": {
+      "waveMax": null,
+      "windMax": 10.68,
+      "gustMax": 14.8,
+      "cond": "moderate"
+    },
+    "2020-11-17": {
+      "waveMax": null,
+      "windMax": 10.01,
+      "gustMax": 14.1,
+      "cond": "moderate"
+    },
+    "2020-11-18": {
+      "waveMax": null,
+      "windMax": 7.54,
+      "gustMax": 10.5,
+      "cond": "calm"
+    },
+    "2020-11-19": {
+      "waveMax": null,
+      "windMax": 11.85,
+      "gustMax": 15.9,
+      "cond": "moderate"
+    },
+    "2020-11-20": {
+      "waveMax": null,
+      "windMax": 16.19,
+      "gustMax": 23.7,
+      "cond": "rough"
+    },
+    "2020-11-21": {
+      "waveMax": null,
+      "windMax": 16.82,
+      "gustMax": 24.9,
+      "cond": "rough"
+    },
+    "2020-11-22": {
+      "waveMax": null,
+      "windMax": 12.24,
+      "gustMax": 16.9,
+      "cond": "moderate"
+    },
+    "2020-11-23": {
+      "waveMax": null,
+      "windMax": 14.31,
+      "gustMax": 20.5,
+      "cond": "rough"
+    },
+    "2020-11-24": {
+      "waveMax": null,
+      "windMax": 12.26,
+      "gustMax": 17.1,
+      "cond": "moderate"
+    },
+    "2020-11-25": {
+      "waveMax": null,
+      "windMax": 12.82,
+      "gustMax": 18.3,
+      "cond": "moderate"
+    },
+    "2020-11-26": {
+      "waveMax": null,
+      "windMax": 9.33,
+      "gustMax": 13.1,
+      "cond": "moderate"
+    },
+    "2020-11-27": {
+      "waveMax": null,
+      "windMax": 15.13,
+      "gustMax": 21.4,
+      "cond": "rough"
+    },
+    "2020-11-28": {
+      "waveMax": null,
+      "windMax": 15.92,
+      "gustMax": 22.1,
+      "cond": "rough"
+    },
+    "2020-11-29": {
+      "waveMax": null,
+      "windMax": 11.88,
+      "gustMax": 17,
+      "cond": "moderate"
+    },
+    "2020-11-30": {
+      "waveMax": null,
+      "windMax": 14.35,
+      "gustMax": 20.6,
+      "cond": "rough"
+    },
+    "2020-12-01": {
+      "waveMax": null,
+      "windMax": 11.54,
+      "gustMax": 17.3,
+      "cond": "moderate"
+    },
+    "2020-12-02": {
+      "waveMax": null,
+      "windMax": 14.81,
+      "gustMax": 21.1,
+      "cond": "rough"
+    },
+    "2020-12-03": {
+      "waveMax": null,
+      "windMax": 15.01,
+      "gustMax": 21.5,
+      "cond": "rough"
+    },
+    "2020-12-04": {
+      "waveMax": null,
+      "windMax": 13,
+      "gustMax": 19.6,
+      "cond": "moderate"
+    },
+    "2020-12-05": {
+      "waveMax": null,
+      "windMax": 11.93,
+      "gustMax": 17.2,
+      "cond": "moderate"
+    },
+    "2020-12-06": {
+      "waveMax": null,
+      "windMax": 11.75,
+      "gustMax": 17.2,
+      "cond": "moderate"
+    },
+    "2020-12-07": {
+      "waveMax": null,
+      "windMax": 11.12,
+      "gustMax": 16,
+      "cond": "moderate"
+    },
+    "2020-12-08": {
+      "waveMax": null,
+      "windMax": 13.15,
+      "gustMax": 18.6,
+      "cond": "moderate"
+    },
+    "2020-12-09": {
+      "waveMax": null,
+      "windMax": 13.23,
+      "gustMax": 18.8,
+      "cond": "moderate"
+    },
+    "2020-12-10": {
+      "waveMax": null,
+      "windMax": 11.36,
+      "gustMax": 16.1,
+      "cond": "moderate"
+    },
+    "2020-12-11": {
+      "waveMax": null,
+      "windMax": 10.66,
+      "gustMax": 15.3,
+      "cond": "moderate"
+    },
+    "2020-12-12": {
+      "waveMax": null,
+      "windMax": 15.54,
+      "gustMax": 22.3,
+      "cond": "rough"
+    },
+    "2020-12-13": {
+      "waveMax": null,
+      "windMax": 14.2,
+      "gustMax": 20.1,
+      "cond": "rough"
+    },
+    "2020-12-14": {
+      "waveMax": null,
+      "windMax": 17.43,
+      "gustMax": 25.6,
+      "cond": "severe"
+    },
+    "2020-12-15": {
+      "waveMax": null,
+      "windMax": 16.78,
+      "gustMax": 25.2,
+      "cond": "rough"
+    },
+    "2020-12-16": {
+      "waveMax": null,
+      "windMax": 16.8,
+      "gustMax": 26.5,
+      "cond": "rough"
+    },
+    "2020-12-17": {
+      "waveMax": null,
+      "windMax": 14.71,
+      "gustMax": 23.2,
+      "cond": "rough"
+    },
+    "2020-12-18": {
+      "waveMax": null,
+      "windMax": 15.16,
+      "gustMax": 21.3,
+      "cond": "rough"
+    },
+    "2020-12-19": {
+      "waveMax": null,
+      "windMax": 16.09,
+      "gustMax": 22.9,
+      "cond": "rough"
+    },
+    "2020-12-20": {
+      "waveMax": null,
+      "windMax": 15.07,
+      "gustMax": 22.1,
+      "cond": "rough"
+    },
+    "2020-12-21": {
+      "waveMax": null,
+      "windMax": 12.46,
+      "gustMax": 18,
+      "cond": "moderate"
+    },
+    "2020-12-22": {
+      "waveMax": null,
+      "windMax": 11.28,
+      "gustMax": 16.9,
+      "cond": "moderate"
+    },
+    "2020-12-23": {
+      "waveMax": null,
+      "windMax": 12.05,
+      "gustMax": 17.8,
+      "cond": "moderate"
+    },
+    "2020-12-24": {
+      "waveMax": null,
+      "windMax": 13.62,
+      "gustMax": 19.4,
+      "cond": "moderate"
+    },
+    "2020-12-25": {
+      "waveMax": null,
+      "windMax": 16.95,
+      "gustMax": 24.7,
+      "cond": "rough"
+    },
+    "2020-12-26": {
+      "waveMax": null,
+      "windMax": 14.83,
+      "gustMax": 21.8,
+      "cond": "rough"
+    },
+    "2020-12-27": {
+      "waveMax": null,
+      "windMax": 12.45,
+      "gustMax": 18.2,
+      "cond": "moderate"
+    },
+    "2020-12-28": {
+      "waveMax": null,
+      "windMax": 13.65,
+      "gustMax": 19.4,
+      "cond": "moderate"
+    },
+    "2020-12-29": {
+      "waveMax": null,
+      "windMax": 12.15,
+      "gustMax": 16.9,
+      "cond": "moderate"
+    },
+    "2020-12-30": {
+      "waveMax": null,
+      "windMax": 20.27,
+      "gustMax": 29.9,
+      "cond": "severe"
+    },
+    "2020-12-31": {
+      "waveMax": null,
+      "windMax": 16.37,
+      "gustMax": 24.3,
+      "cond": "rough"
+    }
+  }
+}
