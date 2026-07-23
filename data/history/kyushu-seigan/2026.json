@@ -1219,6 +1219,12 @@
       "windMax": 5.88,
       "gustMax": 7.5,
       "cond": "calm"
+    },
+    "2026-07-23": {
+      "waveMax": 0.5,
+      "windMax": 7.42,
+      "gustMax": 8.8,
+      "cond": "calm"
     }
   }
 }
