@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-11",
-  "recordedDays": 3144,
+  "updated": "2026-08-12",
+  "recordedDays": 3145,
   "routes": {
     "setonaikai": {
       "name": "瀬戸内",
@@ -17,7 +17,7 @@
       ],
       "waveStart": "2021-10-01",
       "windStart": "2018-01-01",
-      "lastRecorded": "2026-08-10"
+      "lastRecorded": "2026-08-11"
     },
     "taiheiyo-engan": {
       "name": "太平洋沿岸(東海〜関東)",
@@ -34,7 +34,7 @@
       ],
       "waveStart": "2021-10-01",
       "windStart": "2018-01-01",
-      "lastRecorded": "2026-08-10"
+      "lastRecorded": "2026-08-11"
     },
     "isewan-kiisuido": {
       "name": "伊勢湾〜紀伊水道",
@@ -51,7 +51,7 @@
       ],
       "waveStart": "2021-10-01",
       "windStart": "2018-01-01",
-      "lastRecorded": "2026-08-10"
+      "lastRecorded": "2026-08-11"
     },
     "kyushu-seigan": {
       "name": "九州西岸(玄界灘〜五島灘)",
@@ -68,7 +68,7 @@
       ],
       "waveStart": "2021-10-01",
       "windStart": "2018-01-01",
-      "lastRecorded": "2026-08-10"
+      "lastRecorded": "2026-08-11"
     }
   }
 }
