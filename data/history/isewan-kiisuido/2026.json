@@ -1441,6 +1441,12 @@
       "windMax": 9.39,
       "gustMax": 15.3,
       "cond": "moderate"
+    },
+    "2026-08-29": {
+      "waveMax": 1.26,
+      "windMax": 9.32,
+      "gustMax": 13.4,
+      "cond": "moderate"
     }
   }
 }
