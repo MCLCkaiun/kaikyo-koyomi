@@ -1693,6 +1693,12 @@
       "windMax": 6.36,
       "gustMax": 11.1,
       "cond": "calm"
+    },
+    "2026-10-10": {
+      "waveMax": 0.22,
+      "windMax": 6.38,
+      "gustMax": 10,
+      "cond": "calm"
     }
   }
 }
