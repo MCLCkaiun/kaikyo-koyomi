@@ -1717,6 +1717,12 @@
       "windMax": 10.53,
       "gustMax": 12.7,
       "cond": "moderate"
+    },
+    "2026-10-14": {
+      "waveMax": 1.16,
+      "windMax": 12.76,
+      "gustMax": 19.2,
+      "cond": "moderate"
     }
   }
 }
