@@ -1885,6 +1885,12 @@
       "windMax": 14.89,
       "gustMax": 20.2,
       "cond": "severe"
+    },
+    "2026-11-11": {
+      "waveMax": 2.28,
+      "windMax": 12.32,
+      "gustMax": 17.1,
+      "cond": "rough"
     }
   }
 }
