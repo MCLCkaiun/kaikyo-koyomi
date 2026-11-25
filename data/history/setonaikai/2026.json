@@ -1959,10 +1959,16 @@
       "cond": "moderate"
     },
     "2026-11-23": {
-      "waveMax": 0.2,
-      "windMax": null,
-      "gustMax": null,
+      "waveMax": 0.24,
+      "windMax": 6.24,
+      "gustMax": 8.6,
       "cond": "calm"
+    },
+    "2026-11-24": {
+      "waveMax": 0.84,
+      "windMax": 13.1,
+      "gustMax": 23,
+      "cond": "moderate"
     }
   }
 }
