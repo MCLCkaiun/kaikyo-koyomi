@@ -1975,6 +1975,12 @@
       "windMax": 13.62,
       "gustMax": 19.6,
       "cond": "moderate"
+    },
+    "2026-11-26": {
+      "waveMax": 0.8,
+      "windMax": null,
+      "gustMax": null,
+      "cond": "calm"
     }
   }
 }
