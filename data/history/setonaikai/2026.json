@@ -1981,6 +1981,12 @@
       "windMax": null,
       "gustMax": null,
       "cond": "calm"
+    },
+    "2026-11-27": {
+      "waveMax": 0.26,
+      "windMax": null,
+      "gustMax": null,
+      "cond": "calm"
     }
   }
 }
